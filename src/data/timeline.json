@@ -1,0 +1,5909 @@
+{
+ "fps": 30,
+ "totalFrames": 11171,
+ "chapters": [
+  {
+   "id": "hook",
+   "label": "PROLOGUE",
+   "title": "How Did We Get Here",
+   "startFrame": 36,
+   "endFrame": 815
+  },
+  {
+   "id": "idea",
+   "label": "CHAPTER 01",
+   "title": "The Idea Before AI",
+   "startFrame": 815,
+   "endFrame": 2042
+  },
+  {
+   "id": "birth",
+   "label": "CHAPTER 02",
+   "title": "The Birth of AI",
+   "startFrame": 2042,
+   "endFrame": 3284
+  },
+  {
+   "id": "ml",
+   "label": "CHAPTER 03",
+   "title": "From Rules to Machine Learning",
+   "startFrame": 3284,
+   "endFrame": 4432
+  },
+  {
+   "id": "nn",
+   "label": "CHAPTER 04",
+   "title": "Neural Networks",
+   "startFrame": 4432,
+   "endFrame": 5835
+  },
+  {
+   "id": "dl",
+   "label": "CHAPTER 05",
+   "title": "The Deep Learning Revolution",
+   "startFrame": 5835,
+   "endFrame": 7010
+  },
+  {
+   "id": "tf",
+   "label": "CHAPTER 06",
+   "title": "Transformers and Generative AI",
+   "startFrame": 7010,
+   "endFrame": 8519
+  },
+  {
+   "id": "chat",
+   "label": "CHAPTER 07",
+   "title": "ChatGPT and the AI Boom",
+   "startFrame": 8519,
+   "endFrame": 9457
+  },
+  {
+   "id": "why",
+   "label": "CHAPTER 08",
+   "title": "How AI Became Intelligent",
+   "startFrame": 9457,
+   "endFrame": 10468
+  },
+  {
+   "id": "end",
+   "label": "EPILOGUE",
+   "title": "A Story Still Being Written",
+   "startFrame": 10468,
+   "endFrame": 11171
+  }
+ ],
+ "shots": [
+  {
+   "shot": "mainframe",
+   "chapter": "hook",
+   "lines": [
+    0,
+    1
+   ],
+   "startFrame": 0,
+   "endFrame": 228,
+   "durFrames": 228
+  },
+  {
+   "shot": "yearwarp",
+   "chapter": "hook",
+   "lines": [
+    2
+   ],
+   "startFrame": 228,
+   "endFrame": 260,
+   "durFrames": 32
+  },
+  {
+   "shot": "aicore",
+   "chapter": "hook",
+   "lines": [
+    3,
+    4
+   ],
+   "startFrame": 260,
+   "endFrame": 556,
+   "durFrames": 296
+  },
+  {
+   "shot": "lattice",
+   "chapter": "hook",
+   "lines": [
+    5,
+    6
+   ],
+   "startFrame": 556,
+   "endFrame": 711,
+   "durFrames": 155
+  },
+  {
+   "shot": "title",
+   "chapter": "hook",
+   "lines": [
+    7
+   ],
+   "startFrame": 711,
+   "endFrame": 815,
+   "durFrames": 104
+  },
+  {
+   "shot": "rewind",
+   "chapter": "idea",
+   "lines": [
+    8
+   ],
+   "startFrame": 815,
+   "endFrame": 1023,
+   "durFrames": 208
+  },
+  {
+   "shot": "question",
+   "chapter": "idea",
+   "lines": [
+    9,
+    10
+   ],
+   "startFrame": 1023,
+   "endFrame": 1226,
+   "durFrames": 203
+  },
+  {
+   "shot": "turing",
+   "chapter": "idea",
+   "lines": [
+    11,
+    12
+   ],
+   "startFrame": 1226,
+   "endFrame": 1471,
+   "durFrames": 245
+  },
+  {
+   "shot": "turingtest",
+   "chapter": "idea",
+   "lines": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "startFrame": 1471,
+   "endFrame": 1914,
+   "durFrames": 443
+  },
+  {
+   "shot": "foundation",
+   "chapter": "idea",
+   "lines": [
+    17
+   ],
+   "startFrame": 1914,
+   "endFrame": 2042,
+   "durFrames": 128
+  },
+  {
+   "shot": "dartmouth",
+   "chapter": "birth",
+   "lines": [
+    18,
+    19
+   ],
+   "startFrame": 2042,
+   "endFrame": 2213,
+   "durFrames": 171
+  },
+  {
+   "shot": "aiterm",
+   "chapter": "birth",
+   "lines": [
+    20,
+    21
+   ],
+   "startFrame": 2213,
+   "endFrame": 2338,
+   "durFrames": 125
+  },
+  {
+   "shot": "simulate",
+   "chapter": "birth",
+   "lines": [
+    22,
+    23,
+    24
+   ],
+   "startFrame": 2338,
+   "endFrame": 2804,
+   "durFrames": 466
+  },
+  {
+   "shot": "symbolic",
+   "chapter": "birth",
+   "lines": [
+    25,
+    26
+   ],
+   "startFrame": 2804,
+   "endFrame": 3073,
+   "durFrames": 269
+  },
+  {
+   "shot": "rules",
+   "chapter": "birth",
+   "lines": [
+    27,
+    28,
+    29
+   ],
+   "startFrame": 3073,
+   "endFrame": 3284,
+   "durFrames": 211
+  },
+  {
+   "shot": "catrules",
+   "chapter": "ml",
+   "lines": [
+    30,
+    31,
+    32,
+    33
+   ],
+   "startFrame": 3284,
+   "endFrame": 3585,
+   "durFrames": 301
+  },
+  {
+   "shot": "catsvary",
+   "chapter": "ml",
+   "lines": [
+    34,
+    35
+   ],
+   "startFrame": 3585,
+   "endFrame": 3701,
+   "durFrames": 116
+  },
+  {
+   "shot": "learnrules",
+   "chapter": "ml",
+   "lines": [
+    36,
+    37,
+    38
+   ],
+   "startFrame": 3701,
+   "endFrame": 3902,
+   "durFrames": 201
+  },
+  {
+   "shot": "mltitle",
+   "chapter": "ml",
+   "lines": [
+    39
+   ],
+   "startFrame": 3902,
+   "endFrame": 3985,
+   "durFrames": 83
+  },
+  {
+   "shot": "examples",
+   "chapter": "ml",
+   "lines": [
+    40,
+    41,
+    42,
+    43
+   ],
+   "startFrame": 3985,
+   "endFrame": 4243,
+   "durFrames": 258
+  },
+  {
+   "shot": "patterns",
+   "chapter": "ml",
+   "lines": [
+    44,
+    45
+   ],
+   "startFrame": 4243,
+   "endFrame": 4432,
+   "durFrames": 189
+  },
+  {
+   "shot": "nnintro",
+   "chapter": "nn",
+   "lines": [
+    46,
+    47
+   ],
+   "startFrame": 4432,
+   "endFrame": 4709,
+   "durFrames": 277
+  },
+  {
+   "shot": "nnlayers",
+   "chapter": "nn",
+   "lines": [
+    48,
+    49,
+    50,
+    51
+   ],
+   "startFrame": 4709,
+   "endFrame": 4984,
+   "durFrames": 275
+  },
+  {
+   "shot": "catsdogs",
+   "chapter": "nn",
+   "lines": [
+    52,
+    53
+   ],
+   "startFrame": 4984,
+   "endFrame": 5185,
+   "durFrames": 201
+  },
+  {
+   "shot": "training",
+   "chapter": "nn",
+   "lines": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ],
+   "startFrame": 5185,
+   "endFrame": 5588,
+   "durFrames": 403
+  },
+  {
+   "shot": "deep",
+   "chapter": "nn",
+   "lines": [
+    61,
+    62
+   ],
+   "startFrame": 5588,
+   "endFrame": 5835,
+   "durFrames": 247
+  },
+  {
+   "shot": "three",
+   "chapter": "dl",
+   "lines": [
+    63,
+    64,
+    65,
+    66
+   ],
+   "startFrame": 5835,
+   "endFrame": 6056,
+   "durFrames": 221
+  },
+  {
+   "shot": "gpu",
+   "chapter": "dl",
+   "lines": [
+    67,
+    68
+   ],
+   "startFrame": 6056,
+   "endFrame": 6400,
+   "durFrames": 344
+  },
+  {
+   "shot": "alexnet",
+   "chapter": "dl",
+   "lines": [
+    69,
+    70
+   ],
+   "startFrame": 6400,
+   "endFrame": 6752,
+   "durFrames": 352
+  },
+  {
+   "shot": "scale",
+   "chapter": "dl",
+   "lines": [
+    71,
+    72
+   ],
+   "startFrame": 6752,
+   "endFrame": 7010,
+   "durFrames": 258
+  },
+  {
+   "shot": "paper2017",
+   "chapter": "tf",
+   "lines": [
+    73,
+    74,
+    75,
+    76
+   ],
+   "startFrame": 7010,
+   "endFrame": 7257,
+   "durFrames": 247
+  },
+  {
+   "shot": "transformer",
+   "chapter": "tf",
+   "lines": [
+    77,
+    78
+   ],
+   "startFrame": 7257,
+   "endFrame": 7492,
+   "durFrames": 235
+  },
+  {
+   "shot": "attention",
+   "chapter": "tf",
+   "lines": [
+    79,
+    80
+   ],
+   "startFrame": 7492,
+   "endFrame": 7795,
+   "durFrames": 303
+  },
+  {
+   "shot": "llm",
+   "chapter": "tf",
+   "lines": [
+    81,
+    82,
+    83
+   ],
+   "startFrame": 7795,
+   "endFrame": 8102,
+   "durFrames": 307
+  },
+  {
+   "shot": "capabilities",
+   "chapter": "tf",
+   "lines": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
+   ],
+   "startFrame": 8102,
+   "endFrame": 8519,
+   "durFrames": 417
+  },
+  {
+   "shot": "release",
+   "chapter": "chat",
+   "lines": [
+    92,
+    93
+   ],
+   "startFrame": 8519,
+   "endFrame": 8815,
+   "durFrames": 296
+  },
+  {
+   "shot": "chatui",
+   "chapter": "chat",
+   "lines": [
+    94,
+    95,
+    96
+   ],
+   "startFrame": 8815,
+   "endFrame": 9007,
+   "durFrames": 192
+  },
+  {
+   "shot": "boom",
+   "chapter": "chat",
+   "lines": [
+    97,
+    98,
+    99
+   ],
+   "startFrame": 9007,
+   "endFrame": 9457,
+   "durFrames": 450
+  },
+  {
+   "shot": "notprog",
+   "chapter": "why",
+   "lines": [
+    100,
+    101,
+    102
+   ],
+   "startFrame": 9457,
+   "endFrame": 9966,
+   "durFrames": 509
+  },
+  {
+   "shot": "loop",
+   "chapter": "why",
+   "lines": [
+    103,
+    104
+   ],
+   "startFrame": 9966,
+   "endFrame": 10179,
+   "durFrames": 213
+  },
+  {
+   "shot": "emerge",
+   "chapter": "why",
+   "lines": [
+    105,
+    106,
+    107,
+    108,
+    109
+   ],
+   "startFrame": 10179,
+   "endFrame": 10468,
+   "durFrames": 289
+  },
+  {
+   "shot": "recap",
+   "chapter": "end",
+   "lines": [
+    110,
+    111
+   ],
+   "startFrame": 10468,
+   "endFrame": 10756,
+   "durFrames": 288
+  },
+  {
+   "shot": "beginning",
+   "chapter": "end",
+   "lines": [
+    112,
+    113,
+    114,
+    115,
+    116
+   ],
+   "startFrame": 10756,
+   "endFrame": 11010,
+   "durFrames": 254
+  },
+  {
+   "shot": "finale",
+   "chapter": "end",
+   "lines": [
+    117,
+    118
+   ],
+   "startFrame": 11010,
+   "endFrame": 11171,
+   "durFrames": 161
+  }
+ ],
+ "lines": [
+  {
+   "i": 0,
+   "chapter": "hook",
+   "shot": "mainframe",
+   "text": "Imagine going back eighty years.",
+   "k": "*80* YEARS AGO",
+   "p": "bottom",
+   "file": "audio/vo/000.mp3",
+   "startFrame": 36,
+   "durFrames": 51,
+   "slotFrames": 62,
+   "words": [
+    {
+     "w": "Imagine",
+     "f": 3
+    },
+    {
+     "w": "going",
+     "f": 12
+    },
+    {
+     "w": "back",
+     "f": 20
+    },
+    {
+     "w": "eighty",
+     "f": 28
+    },
+    {
+     "w": "years",
+     "f": 33
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "chapter": "hook",
+   "shot": "mainframe",
+   "text": "Computers were massive machines that could barely perform basic calculations.",
+   "k": "MASSIVE MACHINES|*BASIC* CALCULATIONS",
+   "p": "bottom",
+   "file": "audio/vo/001.mp3",
+   "startFrame": 98,
+   "durFrames": 123,
+   "slotFrames": 130,
+   "words": [
+    {
+     "w": "Computers",
+     "f": 3
+    },
+    {
+     "w": "were",
+     "f": 17
+    },
+    {
+     "w": "massive",
+     "f": 21
+    },
+    {
+     "w": "machines",
+     "f": 36
+    },
+    {
+     "w": "that",
+     "f": 50
+    },
+    {
+     "w": "could",
+     "f": 54
+    },
+    {
+     "w": "barely",
+     "f": 61
+    },
+    {
+     "w": "perform",
+     "f": 71
+    },
+    {
+     "w": "basic",
+     "f": 84
+    },
+    {
+     "w": "calculations",
+     "f": 95
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "chapter": "hook",
+   "shot": "yearwarp",
+   "text": "And today?",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/002.mp3",
+   "startFrame": 228,
+   "durFrames": 19,
+   "slotFrames": 32,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "today",
+     "f": 5
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "chapter": "hook",
+   "shot": "aicore",
+   "text": "You can talk to an AI, ask it to write code, create images, analyze videos, translate languages, and even solve complex problems.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/003.mp3",
+   "startFrame": 260,
+   "durFrames": 235,
+   "slotFrames": 242,
+   "words": [
+    {
+     "w": "You",
+     "f": 3
+    },
+    {
+     "w": "can",
+     "f": 5
+    },
+    {
+     "w": "talk",
+     "f": 9
+    },
+    {
+     "w": "to",
+     "f": 16
+    },
+    {
+     "w": "an",
+     "f": 19
+    },
+    {
+     "w": "AI",
+     "f": 22
+    },
+    {
+     "w": "ask",
+     "f": 43
+    },
+    {
+     "w": "it",
+     "f": 50
+    },
+    {
+     "w": "to",
+     "f": 53
+    },
+    {
+     "w": "write",
+     "f": 56
+    },
+    {
+     "w": "code",
+     "f": 63
+    },
+    {
+     "w": "create",
+     "f": 81
+    },
+    {
+     "w": "images",
+     "f": 91
+    },
+    {
+     "w": "analyze",
+     "f": 111
+    },
+    {
+     "w": "videos",
+     "f": 125
+    },
+    {
+     "w": "translate",
+     "f": 148
+    },
+    {
+     "w": "languages",
+     "f": 162
+    },
+    {
+     "w": "and",
+     "f": 185
+    },
+    {
+     "w": "even",
+     "f": 189
+    },
+    {
+     "w": "solve",
+     "f": 194
+    },
+    {
+     "w": "complex",
+     "f": 202
+    },
+    {
+     "w": "problems",
+     "f": 214
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "chapter": "hook",
+   "shot": "aicore",
+   "text": "So... how did we get here?",
+   "k": "HOW DID WE *GET HERE*?",
+   "p": "center",
+   "file": "audio/vo/004.mp3",
+   "startFrame": 502,
+   "durFrames": 40,
+   "slotFrames": 54,
+   "words": [
+    {
+     "w": "So",
+     "f": 3
+    },
+    {
+     "w": "how",
+     "f": 17
+    },
+    {
+     "w": "did",
+     "f": 19
+    },
+    {
+     "w": "we",
+     "f": 21
+    },
+    {
+     "w": "get",
+     "f": 24
+    },
+    {
+     "w": "here",
+     "f": 28
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "chapter": "hook",
+   "shot": "lattice",
+   "text": "How did machines go from simply following instructions...",
+   "k": "FOLLOWING *INSTRUCTIONS*",
+   "p": "bottom",
+   "file": "audio/vo/005.mp3",
+   "startFrame": 556,
+   "durFrames": 82,
+   "slotFrames": 89,
+   "words": [
+    {
+     "w": "How",
+     "f": 3
+    },
+    {
+     "w": "did",
+     "f": 5
+    },
+    {
+     "w": "machines",
+     "f": 9
+    },
+    {
+     "w": "go",
+     "f": 22
+    },
+    {
+     "w": "from",
+     "f": 27
+    },
+    {
+     "w": "simply",
+     "f": 32
+    },
+    {
+     "w": "following",
+     "f": 44
+    },
+    {
+     "w": "instructions",
+     "f": 57
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "chapter": "hook",
+   "shot": "lattice",
+   "text": "to something that looks like intelligence?",
+   "k": "LOOKS LIKE *INTELLIGENCE*",
+   "p": "bottom",
+   "file": "audio/vo/006.mp3",
+   "startFrame": 645,
+   "durFrames": 52,
+   "slotFrames": 66,
+   "words": [
+    {
+     "w": "to",
+     "f": 3
+    },
+    {
+     "w": "something",
+     "f": 4
+    },
+    {
+     "w": "that",
+     "f": 14
+    },
+    {
+     "w": "looks",
+     "f": 17
+    },
+    {
+     "w": "like",
+     "f": 23
+    },
+    {
+     "w": "intelligence",
+     "f": 28
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "chapter": "hook",
+   "shot": "title",
+   "text": "This is the story of Artificial Intelligence.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/007.mp3",
+   "startFrame": 711,
+   "durFrames": 73,
+   "slotFrames": 104,
+   "words": [
+    {
+     "w": "This",
+     "f": 3
+    },
+    {
+     "w": "is",
+     "f": 9
+    },
+    {
+     "w": "the",
+     "f": 12
+    },
+    {
+     "w": "story",
+     "f": 15
+    },
+    {
+     "w": "of",
+     "f": 29
+    },
+    {
+     "w": "Artificial",
+     "f": 34
+    },
+    {
+     "w": "Intelligence",
+     "f": 49
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "chapter": "idea",
+   "shot": "rewind",
+   "text": "The idea of artificial intelligence actually started long before ChatGPT, smartphones, or even modern computers.",
+   "k": "LONG *BEFORE*",
+   "p": "bottom",
+   "file": "audio/vo/008.mp3",
+   "startFrame": 815,
+   "durFrames": 201,
+   "slotFrames": 208,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "idea",
+     "f": 5
+    },
+    {
+     "w": "of",
+     "f": 18
+    },
+    {
+     "w": "artificial",
+     "f": 22
+    },
+    {
+     "w": "intelligence",
+     "f": 37
+    },
+    {
+     "w": "actually",
+     "f": 55
+    },
+    {
+     "w": "started",
+     "f": 68
+    },
+    {
+     "w": "long",
+     "f": 80
+    },
+    {
+     "w": "before",
+     "f": 90
+    },
+    {
+     "w": "ChatGPT",
+     "f": 100
+    },
+    {
+     "w": "smartphones",
+     "f": 133
+    },
+    {
+     "w": "or",
+     "f": 160
+    },
+    {
+     "w": "even",
+     "f": 164
+    },
+    {
+     "w": "modern",
+     "f": 171
+    },
+    {
+     "w": "computers",
+     "f": 180
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "chapter": "idea",
+   "shot": "question",
+   "text": "In the 1940s and 1950s, scientists began asking a strange question:",
+   "k": "1940s *\u2014* 1950s",
+   "p": "bottom",
+   "file": "audio/vo/009.mp3",
+   "startFrame": 1023,
+   "durFrames": 143,
+   "slotFrames": 154,
+   "words": [
+    {
+     "w": "In",
+     "f": 3
+    },
+    {
+     "w": "the",
+     "f": 5
+    },
+    {
+     "w": "1940s",
+     "f": 7
+    },
+    {
+     "w": "and",
+     "f": 32
+    },
+    {
+     "w": "1950s",
+     "f": 34
+    },
+    {
+     "w": "scientists",
+     "f": 68
+    },
+    {
+     "w": "began",
+     "f": 84
+    },
+    {
+     "w": "asking",
+     "f": 101
+    },
+    {
+     "w": "a",
+     "f": 113
+    },
+    {
+     "w": "strange",
+     "f": 114
+    },
+    {
+     "w": "question",
+     "f": 125
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "chapter": "idea",
+   "shot": "question",
+   "text": "Can a machine think?",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/010.mp3",
+   "startFrame": 1177,
+   "durFrames": 31,
+   "slotFrames": 49,
+   "words": [
+    {
+     "w": "Can",
+     "f": 3
+    },
+    {
+     "w": "a",
+     "f": 5
+    },
+    {
+     "w": "machine",
+     "f": 7
+    },
+    {
+     "w": "think",
+     "f": 17
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "chapter": "idea",
+   "shot": "turing",
+   "text": "One of the most important people in this story was Alan Turing.",
+   "k": "ALAN *TURING*",
+   "p": "bottom",
+   "file": "audio/vo/011.mp3",
+   "startFrame": 1226,
+   "durFrames": 87,
+   "slotFrames": 93,
+   "words": [
+    {
+     "w": "One",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 5
+    },
+    {
+     "w": "the",
+     "f": 7
+    },
+    {
+     "w": "most",
+     "f": 9
+    },
+    {
+     "w": "important",
+     "f": 17
+    },
+    {
+     "w": "people",
+     "f": 30
+    },
+    {
+     "w": "in",
+     "f": 40
+    },
+    {
+     "w": "this",
+     "f": 43
+    },
+    {
+     "w": "story",
+     "f": 48
+    },
+    {
+     "w": "was",
+     "f": 58
+    },
+    {
+     "w": "Alan",
+     "f": 64
+    },
+    {
+     "w": "Turing",
+     "f": 72
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "chapter": "idea",
+   "shot": "turing",
+   "text": "In 1950, Turing published a famous paper called Computing Machinery and Intelligence.",
+   "k": "*1950*",
+   "p": "bottom",
+   "file": "audio/vo/012.mp3",
+   "startFrame": 1319,
+   "durFrames": 145,
+   "slotFrames": 152,
+   "words": [
+    {
+     "w": "In 1950",
+     "f": 3
+    },
+    {
+     "w": "Turing",
+     "f": 35
+    },
+    {
+     "w": "published",
+     "f": 44
+    },
+    {
+     "w": "a",
+     "f": 55
+    },
+    {
+     "w": "famous",
+     "f": 56
+    },
+    {
+     "w": "paper",
+     "f": 68
+    },
+    {
+     "w": "called",
+     "f": 77
+    },
+    {
+     "w": "Computing",
+     "f": 84
+    },
+    {
+     "w": "Machinery",
+     "f": 98
+    },
+    {
+     "w": "and",
+     "f": 117
+    },
+    {
+     "w": "Intelligence",
+     "f": 120
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "chapter": "idea",
+   "shot": "turingtest",
+   "text": "Instead of trying to define exactly what thinking means, he proposed a test.",
+   "k": "HE PROPOSED *A TEST*",
+   "p": "bottom",
+   "file": "audio/vo/013.mp3",
+   "startFrame": 1471,
+   "durFrames": 120,
+   "slotFrames": 127,
+   "words": [
+    {
+     "w": "Instead",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 11
+    },
+    {
+     "w": "trying",
+     "f": 13
+    },
+    {
+     "w": "to",
+     "f": 21
+    },
+    {
+     "w": "define",
+     "f": 23
+    },
+    {
+     "w": "exactly",
+     "f": 36
+    },
+    {
+     "w": "what",
+     "f": 52
+    },
+    {
+     "w": "thinking",
+     "f": 57
+    },
+    {
+     "w": "means",
+     "f": 69
+    },
+    {
+     "w": "he",
+     "f": 87
+    },
+    {
+     "w": "proposed",
+     "f": 89
+    },
+    {
+     "w": "a",
+     "f": 101
+    },
+    {
+     "w": "test",
+     "f": 102
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "chapter": "idea",
+   "shot": "turingtest",
+   "text": "If a human could communicate with a machine and couldn't reliably tell whether they were talking to a human or a machine...",
+   "k": "HUMAN *OR* MACHINE?",
+   "p": "bottom",
+   "file": "audio/vo/014.mp3",
+   "startFrame": 1598,
+   "durFrames": 169,
+   "slotFrames": 175,
+   "words": [
+    {
+     "w": "If",
+     "f": 3
+    },
+    {
+     "w": "a",
+     "f": 6
+    },
+    {
+     "w": "human",
+     "f": 7
+    },
+    {
+     "w": "could",
+     "f": 18
+    },
+    {
+     "w": "communicate",
+     "f": 22
+    },
+    {
+     "w": "with",
+     "f": 39
+    },
+    {
+     "w": "a",
+     "f": 44
+    },
+    {
+     "w": "machine",
+     "f": 45
+    },
+    {
+     "w": "and",
+     "f": 62
+    },
+    {
+     "w": "couldn't",
+     "f": 65
+    },
+    {
+     "w": "reliably",
+     "f": 74
+    },
+    {
+     "w": "tell",
+     "f": 90
+    },
+    {
+     "w": "whether",
+     "f": 99
+    },
+    {
+     "w": "they",
+     "f": 105
+    },
+    {
+     "w": "were",
+     "f": 108
+    },
+    {
+     "w": "talking",
+     "f": 111
+    },
+    {
+     "w": "to",
+     "f": 122
+    },
+    {
+     "w": "a",
+     "f": 126
+    },
+    {
+     "w": "human",
+     "f": 128
+    },
+    {
+     "w": "or",
+     "f": 146
+    },
+    {
+     "w": "a",
+     "f": 150
+    },
+    {
+     "w": "machine",
+     "f": 151
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "chapter": "idea",
+   "shot": "turingtest",
+   "text": "maybe we could call that machine intelligent.",
+   "k": "CALL IT *INTELLIGENT*",
+   "p": "bottom",
+   "file": "audio/vo/015.mp3",
+   "startFrame": 1773,
+   "durFrames": 61,
+   "slotFrames": 69,
+   "words": [
+    {
+     "w": "maybe",
+     "f": 3
+    },
+    {
+     "w": "we",
+     "f": 9
+    },
+    {
+     "w": "could",
+     "f": 12
+    },
+    {
+     "w": "call",
+     "f": 16
+    },
+    {
+     "w": "that",
+     "f": 25
+    },
+    {
+     "w": "machine",
+     "f": 30
+    },
+    {
+     "w": "intelligent",
+     "f": 39
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "chapter": "idea",
+   "shot": "turingtest",
+   "text": "This became known as the Turing Test.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/016.mp3",
+   "startFrame": 1842,
+   "durFrames": 61,
+   "slotFrames": 72,
+   "words": [
+    {
+     "w": "This",
+     "f": 3
+    },
+    {
+     "w": "became",
+     "f": 6
+    },
+    {
+     "w": "known",
+     "f": 18
+    },
+    {
+     "w": "as",
+     "f": 27
+    },
+    {
+     "w": "the",
+     "f": 30
+    },
+    {
+     "w": "Turing",
+     "f": 32
+    },
+    {
+     "w": "Test",
+     "f": 43
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "chapter": "idea",
+   "shot": "foundation",
+   "text": "And this question became the foundation for a completely new field.",
+   "k": "THE *FOUNDATION*|OF A NEW FIELD",
+   "p": "bottom",
+   "file": "audio/vo/017.mp3",
+   "startFrame": 1914,
+   "durFrames": 101,
+   "slotFrames": 128,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "this",
+     "f": 6
+    },
+    {
+     "w": "question",
+     "f": 10
+    },
+    {
+     "w": "became",
+     "f": 22
+    },
+    {
+     "w": "the",
+     "f": 32
+    },
+    {
+     "w": "foundation",
+     "f": 34
+    },
+    {
+     "w": "for",
+     "f": 55
+    },
+    {
+     "w": "a",
+     "f": 60
+    },
+    {
+     "w": "completely",
+     "f": 62
+    },
+    {
+     "w": "new",
+     "f": 77
+    },
+    {
+     "w": "field",
+     "f": 84
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "chapter": "birth",
+   "shot": "dartmouth",
+   "text": "Then came 1956.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/018.mp3",
+   "startFrame": 2042,
+   "durFrames": 51,
+   "slotFrames": 62,
+   "words": [
+    {
+     "w": "Then",
+     "f": 3
+    },
+    {
+     "w": "came",
+     "f": 9
+    },
+    {
+     "w": "1956",
+     "f": 15
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "chapter": "birth",
+   "shot": "dartmouth",
+   "text": "A group of researchers met at Dartmouth College in the United States.",
+   "k": "DARTMOUTH *COLLEGE*",
+   "p": "bottom",
+   "file": "audio/vo/019.mp3",
+   "startFrame": 2104,
+   "durFrames": 103,
+   "slotFrames": 109,
+   "words": [
+    {
+     "w": "A",
+     "f": 3
+    },
+    {
+     "w": "group",
+     "f": 4
+    },
+    {
+     "w": "of",
+     "f": 12
+    },
+    {
+     "w": "researchers",
+     "f": 17
+    },
+    {
+     "w": "met",
+     "f": 34
+    },
+    {
+     "w": "at",
+     "f": 44
+    },
+    {
+     "w": "Dartmouth",
+     "f": 47
+    },
+    {
+     "w": "College",
+     "f": 58
+    },
+    {
+     "w": "in",
+     "f": 69
+    },
+    {
+     "w": "the",
+     "f": 72
+    },
+    {
+     "w": "United",
+     "f": 74
+    },
+    {
+     "w": "States",
+     "f": 84
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "chapter": "birth",
+   "shot": "aiterm",
+   "text": "And they officially introduced the term:",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/020.mp3",
+   "startFrame": 2213,
+   "durFrames": 56,
+   "slotFrames": 66,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "they",
+     "f": 5
+    },
+    {
+     "w": "officially",
+     "f": 9
+    },
+    {
+     "w": "introduced",
+     "f": 26
+    },
+    {
+     "w": "the",
+     "f": 40
+    },
+    {
+     "w": "term",
+     "f": 42
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "chapter": "birth",
+   "shot": "aiterm",
+   "text": "Artificial Intelligence.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/021.mp3",
+   "startFrame": 2279,
+   "durFrames": 41,
+   "slotFrames": 59,
+   "words": [
+    {
+     "w": "Artificial",
+     "f": 3
+    },
+    {
+     "w": "Intelligence",
+     "f": 17
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "chapter": "birth",
+   "shot": "simulate",
+   "text": "The basic idea was incredibly ambitious:",
+   "k": "INCREDIBLY *AMBITIOUS*",
+   "p": "bottom",
+   "file": "audio/vo/022.mp3",
+   "startFrame": 2338,
+   "durFrames": 75,
+   "slotFrames": 82,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "basic",
+     "f": 5
+    },
+    {
+     "w": "idea",
+     "f": 16
+    },
+    {
+     "w": "was",
+     "f": 28
+    },
+    {
+     "w": "incredibly",
+     "f": 33
+    },
+    {
+     "w": "ambitious",
+     "f": 51
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "chapter": "birth",
+   "shot": "simulate",
+   "text": "What if intelligence could be described so precisely that a machine could simulate it?",
+   "k": "DESCRIBE IT.|*SIMULATE* IT.",
+   "p": "bottom",
+   "file": "audio/vo/023.mp3",
+   "startFrame": 2420,
+   "durFrames": 122,
+   "slotFrames": 128,
+   "words": [
+    {
+     "w": "What",
+     "f": 3
+    },
+    {
+     "w": "if",
+     "f": 6
+    },
+    {
+     "w": "intelligence",
+     "f": 9
+    },
+    {
+     "w": "could",
+     "f": 28
+    },
+    {
+     "w": "be",
+     "f": 32
+    },
+    {
+     "w": "described",
+     "f": 34
+    },
+    {
+     "w": "so",
+     "f": 49
+    },
+    {
+     "w": "precisely",
+     "f": 55
+    },
+    {
+     "w": "that",
+     "f": 73
+    },
+    {
+     "w": "a",
+     "f": 77
+    },
+    {
+     "w": "machine",
+     "f": 78
+    },
+    {
+     "w": "could",
+     "f": 93
+    },
+    {
+     "w": "simulate",
+     "f": 97
+    },
+    {
+     "w": "it",
+     "f": 113
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "chapter": "birth",
+   "shot": "simulate",
+   "text": "Early AI researchers believed that with enough rules and computing power, machines could eventually solve many problems that humans solve using intelligence.",
+   "k": "RULES *+* COMPUTING POWER",
+   "p": "bottom",
+   "file": "audio/vo/024.mp3",
+   "startFrame": 2548,
+   "durFrames": 249,
+   "slotFrames": 256,
+   "words": [
+    {
+     "w": "Early",
+     "f": 3
+    },
+    {
+     "w": "AI",
+     "f": 11
+    },
+    {
+     "w": "researchers",
+     "f": 21
+    },
+    {
+     "w": "believed",
+     "f": 39
+    },
+    {
+     "w": "that",
+     "f": 52
+    },
+    {
+     "w": "with",
+     "f": 56
+    },
+    {
+     "w": "enough",
+     "f": 60
+    },
+    {
+     "w": "rules",
+     "f": 70
+    },
+    {
+     "w": "and",
+     "f": 86
+    },
+    {
+     "w": "computing",
+     "f": 90
+    },
+    {
+     "w": "power",
+     "f": 103
+    },
+    {
+     "w": "machines",
+     "f": 124
+    },
+    {
+     "w": "could",
+     "f": 135
+    },
+    {
+     "w": "eventually",
+     "f": 139
+    },
+    {
+     "w": "solve",
+     "f": 154
+    },
+    {
+     "w": "many",
+     "f": 165
+    },
+    {
+     "w": "problems",
+     "f": 176
+    },
+    {
+     "w": "that",
+     "f": 192
+    },
+    {
+     "w": "humans",
+     "f": 195
+    },
+    {
+     "w": "solve",
+     "f": 209
+    },
+    {
+     "w": "using",
+     "f": 217
+    },
+    {
+     "w": "intelligence",
+     "f": 225
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "chapter": "birth",
+   "shot": "symbolic",
+   "text": "And initially, they weren't completely wrong.",
+   "k": "NOT *COMPLETELY* WRONG",
+   "p": "bottom",
+   "file": "audio/vo/025.mp3",
+   "startFrame": 2804,
+   "durFrames": 66,
+   "slotFrames": 73,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "initially",
+     "f": 6
+    },
+    {
+     "w": "they",
+     "f": 28
+    },
+    {
+     "w": "weren't",
+     "f": 31
+    },
+    {
+     "w": "completely",
+     "f": 38
+    },
+    {
+     "w": "wrong",
+     "f": 52
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "chapter": "birth",
+   "shot": "symbolic",
+   "text": "Early programs could solve mathematical problems, play games, prove logical statements, and manipulate symbols.",
+   "k": "MATH  *\u00b7*  GAMES  *\u00b7*  LOGIC  *\u00b7*  SYMBOLS",
+   "p": "bottom",
+   "file": "audio/vo/026.mp3",
+   "startFrame": 2877,
+   "durFrames": 189,
+   "slotFrames": 196,
+   "words": [
+    {
+     "w": "Early",
+     "f": 3
+    },
+    {
+     "w": "programs",
+     "f": 10
+    },
+    {
+     "w": "could",
+     "f": 27
+    },
+    {
+     "w": "solve",
+     "f": 31
+    },
+    {
+     "w": "mathematical",
+     "f": 41
+    },
+    {
+     "w": "problems",
+     "f": 60
+    },
+    {
+     "w": "play",
+     "f": 83
+    },
+    {
+     "w": "games",
+     "f": 89
+    },
+    {
+     "w": "prove",
+     "f": 109
+    },
+    {
+     "w": "logical",
+     "f": 116
+    },
+    {
+     "w": "statements",
+     "f": 129
+    },
+    {
+     "w": "and",
+     "f": 152
+    },
+    {
+     "w": "manipulate",
+     "f": 155
+    },
+    {
+     "w": "symbols",
+     "f": 171
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "chapter": "birth",
+   "shot": "rules",
+   "text": "But there was one huge problem.",
+   "k": "ONE *HUGE* PROBLEM",
+   "p": "bottom",
+   "file": "audio/vo/027.mp3",
+   "startFrame": 3073,
+   "durFrames": 41,
+   "slotFrames": 53,
+   "words": [
+    {
+     "w": "But",
+     "f": 3
+    },
+    {
+     "w": "there",
+     "f": 6
+    },
+    {
+     "w": "was",
+     "f": 9
+    },
+    {
+     "w": "one",
+     "f": 12
+    },
+    {
+     "w": "huge",
+     "f": 17
+    },
+    {
+     "w": "problem",
+     "f": 26
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "chapter": "birth",
+   "shot": "rules",
+   "text": "These systems didn't really learn.",
+   "k": "THEY DIDN'T *LEARN*",
+   "p": "center",
+   "file": "audio/vo/028.mp3",
+   "startFrame": 3126,
+   "durFrames": 47,
+   "slotFrames": 58,
+   "words": [
+    {
+     "w": "These",
+     "f": 3
+    },
+    {
+     "w": "systems",
+     "f": 8
+    },
+    {
+     "w": "didn't",
+     "f": 20
+    },
+    {
+     "w": "really",
+     "f": 28
+    },
+    {
+     "w": "learn",
+     "f": 33
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "chapter": "birth",
+   "shot": "rules",
+   "text": "They were mostly following rules written by humans.",
+   "k": "RULES *WRITTEN BY HUMANS*",
+   "p": "bottom",
+   "file": "audio/vo/029.mp3",
+   "startFrame": 3184,
+   "durFrames": 73,
+   "slotFrames": 100,
+   "words": [
+    {
+     "w": "They",
+     "f": 3
+    },
+    {
+     "w": "were",
+     "f": 5
+    },
+    {
+     "w": "mostly",
+     "f": 9
+    },
+    {
+     "w": "following",
+     "f": 19
+    },
+    {
+     "w": "rules",
+     "f": 33
+    },
+    {
+     "w": "written",
+     "f": 41
+    },
+    {
+     "w": "by",
+     "f": 48
+    },
+    {
+     "w": "humans",
+     "f": 52
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "chapter": "ml",
+   "shot": "catrules",
+   "text": "Think about teaching a computer to recognize a cat.",
+   "k": "RECOGNIZE A *CAT*",
+   "p": "bottom",
+   "file": "audio/vo/030.mp3",
+   "startFrame": 3284,
+   "durFrames": 75,
+   "slotFrames": 82,
+   "words": [
+    {
+     "w": "Think",
+     "f": 4
+    },
+    {
+     "w": "about",
+     "f": 7
+    },
+    {
+     "w": "teaching",
+     "f": 14
+    },
+    {
+     "w": "a",
+     "f": 25
+    },
+    {
+     "w": "computer",
+     "f": 26
+    },
+    {
+     "w": "to",
+     "f": 41
+    },
+    {
+     "w": "recognize",
+     "f": 44
+    },
+    {
+     "w": "a",
+     "f": 58
+    },
+    {
+     "w": "cat",
+     "f": 59
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "chapter": "ml",
+   "shot": "catrules",
+   "text": "The old approach would be something like:",
+   "k": "THE *OLD* APPROACH",
+   "p": "bottom",
+   "file": "audio/vo/031.mp3",
+   "startFrame": 3366,
+   "durFrames": 51,
+   "slotFrames": 57,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "old",
+     "f": 6
+    },
+    {
+     "w": "approach",
+     "f": 11
+    },
+    {
+     "w": "would",
+     "f": 21
+    },
+    {
+     "w": "be",
+     "f": 25
+    },
+    {
+     "w": "something",
+     "f": 27
+    },
+    {
+     "w": "like",
+     "f": 37
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "chapter": "ml",
+   "shot": "catrules",
+   "text": "If it has two ears, four legs, whiskers, and a tail...",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/032.mp3",
+   "startFrame": 3423,
+   "durFrames": 107,
+   "slotFrames": 114,
+   "words": [
+    {
+     "w": "If",
+     "f": 3
+    },
+    {
+     "w": "it",
+     "f": 6
+    },
+    {
+     "w": "has",
+     "f": 8
+    },
+    {
+     "w": "two",
+     "f": 16
+    },
+    {
+     "w": "ears",
+     "f": 23
+    },
+    {
+     "w": "four",
+     "f": 42
+    },
+    {
+     "w": "legs",
+     "f": 46
+    },
+    {
+     "w": "whiskers",
+     "f": 64
+    },
+    {
+     "w": "and",
+     "f": 86
+    },
+    {
+     "w": "a",
+     "f": 90
+    },
+    {
+     "w": "tail",
+     "f": 92
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "chapter": "ml",
+   "shot": "catrules",
+   "text": "then it's probably a cat.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/033.mp3",
+   "startFrame": 3537,
+   "durFrames": 37,
+   "slotFrames": 48,
+   "words": [
+    {
+     "w": "then",
+     "f": 3
+    },
+    {
+     "w": "it's",
+     "f": 5
+    },
+    {
+     "w": "probably",
+     "f": 9
+    },
+    {
+     "w": "a",
+     "f": 20
+    },
+    {
+     "w": "cat",
+     "f": 21
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "chapter": "ml",
+   "shot": "catsvary",
+   "text": "But real life doesn't work like that.",
+   "k": "REAL LIFE *DOESN'T* WORK LIKE THAT",
+   "p": "bottom",
+   "file": "audio/vo/034.mp3",
+   "startFrame": 3585,
+   "durFrames": 52,
+   "slotFrames": 59,
+   "words": [
+    {
+     "w": "But",
+     "f": 3
+    },
+    {
+     "w": "real",
+     "f": 6
+    },
+    {
+     "w": "life",
+     "f": 12
+    },
+    {
+     "w": "doesn't",
+     "f": 21
+    },
+    {
+     "w": "work",
+     "f": 28
+    },
+    {
+     "w": "like",
+     "f": 33
+    },
+    {
+     "w": "that",
+     "f": 39
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "chapter": "ml",
+   "shot": "catsvary",
+   "text": "Cats can look completely different.",
+   "k": "COMPLETELY *DIFFERENT*",
+   "p": "bottom",
+   "file": "audio/vo/035.mp3",
+   "startFrame": 3644,
+   "durFrames": 46,
+   "slotFrames": 57,
+   "words": [
+    {
+     "w": "Cats",
+     "f": 3
+    },
+    {
+     "w": "can",
+     "f": 9
+    },
+    {
+     "w": "look",
+     "f": 13
+    },
+    {
+     "w": "completely",
+     "f": 17
+    },
+    {
+     "w": "different",
+     "f": 30
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "chapter": "ml",
+   "shot": "learnrules",
+   "text": "So instead of giving the machine every rule...",
+   "k": "INSTEAD OF *EVERY RULE*",
+   "p": "bottom",
+   "file": "audio/vo/036.mp3",
+   "startFrame": 3701,
+   "durFrames": 68,
+   "slotFrames": 74,
+   "words": [
+    {
+     "w": "So",
+     "f": 3
+    },
+    {
+     "w": "instead",
+     "f": 7
+    },
+    {
+     "w": "of",
+     "f": 16
+    },
+    {
+     "w": "giving",
+     "f": 19
+    },
+    {
+     "w": "the",
+     "f": 26
+    },
+    {
+     "w": "machine",
+     "f": 28
+    },
+    {
+     "w": "every",
+     "f": 45
+    },
+    {
+     "w": "rule",
+     "f": 53
+    }
+   ]
+  },
+  {
+   "i": 37,
+   "chapter": "ml",
+   "shot": "learnrules",
+   "text": "scientists started asking:",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/037.mp3",
+   "startFrame": 3775,
+   "durFrames": 43,
+   "slotFrames": 50,
+   "words": [
+    {
+     "w": "scientists",
+     "f": 3
+    },
+    {
+     "w": "started",
+     "f": 17
+    },
+    {
+     "w": "asking",
+     "f": 26
+    }
+   ]
+  },
+  {
+   "i": 38,
+   "chapter": "ml",
+   "shot": "learnrules",
+   "text": "What if the machine learns the rules itself?",
+   "k": "WHAT IF IT *LEARNS*|THE RULES ITSELF?",
+   "p": "center",
+   "file": "audio/vo/038.mp3",
+   "startFrame": 3825,
+   "durFrames": 63,
+   "slotFrames": 77,
+   "words": [
+    {
+     "w": "What",
+     "f": 3
+    },
+    {
+     "w": "if",
+     "f": 6
+    },
+    {
+     "w": "the",
+     "f": 8
+    },
+    {
+     "w": "machine",
+     "f": 11
+    },
+    {
+     "w": "learns",
+     "f": 25
+    },
+    {
+     "w": "the",
+     "f": 33
+    },
+    {
+     "w": "rules",
+     "f": 36
+    },
+    {
+     "w": "itself",
+     "f": 45
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "chapter": "ml",
+   "shot": "mltitle",
+   "text": "This idea became known as Machine Learning.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/039.mp3",
+   "startFrame": 3902,
+   "durFrames": 70,
+   "slotFrames": 83,
+   "words": [
+    {
+     "w": "This",
+     "f": 3
+    },
+    {
+     "w": "idea",
+     "f": 8
+    },
+    {
+     "w": "became",
+     "f": 18
+    },
+    {
+     "w": "known",
+     "f": 33
+    },
+    {
+     "w": "as",
+     "f": 42
+    },
+    {
+     "w": "Machine",
+     "f": 45
+    },
+    {
+     "w": "Learning",
+     "f": 56
+    }
+   ]
+  },
+  {
+   "i": 40,
+   "chapter": "ml",
+   "shot": "examples",
+   "text": "Instead of explicitly programming every decision, you give a system examples.",
+   "k": "GIVE IT *EXAMPLES*",
+   "p": "bottom",
+   "file": "audio/vo/040.mp3",
+   "startFrame": 3985,
+   "durFrames": 129,
+   "slotFrames": 136,
+   "words": [
+    {
+     "w": "Instead",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 12
+    },
+    {
+     "w": "explicitly",
+     "f": 14
+    },
+    {
+     "w": "programming",
+     "f": 33
+    },
+    {
+     "w": "every",
+     "f": 55
+    },
+    {
+     "w": "decision",
+     "f": 62
+    },
+    {
+     "w": "you",
+     "f": 87
+    },
+    {
+     "w": "give",
+     "f": 89
+    },
+    {
+     "w": "a",
+     "f": 94
+    },
+    {
+     "w": "system",
+     "f": 95
+    },
+    {
+     "w": "examples",
+     "f": 107
+    }
+   ]
+  },
+  {
+   "i": 41,
+   "chapter": "ml",
+   "shot": "examples",
+   "text": "Thousands...",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/041.mp3",
+   "startFrame": 4121,
+   "durFrames": 22,
+   "slotFrames": 26,
+   "words": [
+    {
+     "w": "Thousands",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 42,
+   "chapter": "ml",
+   "shot": "examples",
+   "text": "millions...",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/042.mp3",
+   "startFrame": 4147,
+   "durFrames": 20,
+   "slotFrames": 25,
+   "words": [
+    {
+     "w": "millions",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 43,
+   "chapter": "ml",
+   "shot": "examples",
+   "text": "or eventually billions of examples.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/043.mp3",
+   "startFrame": 4172,
+   "durFrames": 60,
+   "slotFrames": 71,
+   "words": [
+    {
+     "w": "or",
+     "f": 3
+    },
+    {
+     "w": "eventually",
+     "f": 6
+    },
+    {
+     "w": "billions",
+     "f": 23
+    },
+    {
+     "w": "of",
+     "f": 35
+    },
+    {
+     "w": "examples",
+     "f": 37
+    }
+   ]
+  },
+  {
+   "i": 44,
+   "chapter": "ml",
+   "shot": "patterns",
+   "text": "The machine looks for patterns in the data and builds its own mathematical model.",
+   "k": "IT FINDS THE *PATTERNS*",
+   "p": "bottom",
+   "file": "audio/vo/044.mp3",
+   "startFrame": 4243,
+   "durFrames": 119,
+   "slotFrames": 126,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "machine",
+     "f": 4
+    },
+    {
+     "w": "looks",
+     "f": 15
+    },
+    {
+     "w": "for",
+     "f": 21
+    },
+    {
+     "w": "patterns",
+     "f": 25
+    },
+    {
+     "w": "in",
+     "f": 39
+    },
+    {
+     "w": "the",
+     "f": 42
+    },
+    {
+     "w": "data",
+     "f": 45
+    },
+    {
+     "w": "and",
+     "f": 60
+    },
+    {
+     "w": "builds",
+     "f": 63
+    },
+    {
+     "w": "its",
+     "f": 74
+    },
+    {
+     "w": "own",
+     "f": 80
+    },
+    {
+     "w": "mathematical",
+     "f": 87
+    },
+    {
+     "w": "model",
+     "f": 104
+    }
+   ]
+  },
+  {
+   "i": 45,
+   "chapter": "ml",
+   "shot": "patterns",
+   "text": "And this changed everything.",
+   "k": "THIS CHANGED *EVERYTHING*",
+   "p": "center",
+   "file": "audio/vo/045.mp3",
+   "startFrame": 4369,
+   "durFrames": 36,
+   "slotFrames": 63,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "this",
+     "f": 5
+    },
+    {
+     "w": "changed",
+     "f": 10
+    },
+    {
+     "w": "everything",
+     "f": 19
+    }
+   ]
+  },
+  {
+   "i": 46,
+   "chapter": "nn",
+   "shot": "nnintro",
+   "text": "One of the most important ideas behind modern AI is the neural network.",
+   "k": "THE *NEURAL NETWORK*",
+   "p": "bottom",
+   "file": "audio/vo/046.mp3",
+   "startFrame": 4432,
+   "durFrames": 119,
+   "slotFrames": 125,
+   "words": [
+    {
+     "w": "One",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 6
+    },
+    {
+     "w": "the",
+     "f": 8
+    },
+    {
+     "w": "most",
+     "f": 10
+    },
+    {
+     "w": "important",
+     "f": 17
+    },
+    {
+     "w": "ideas",
+     "f": 32
+    },
+    {
+     "w": "behind",
+     "f": 46
+    },
+    {
+     "w": "modern",
+     "f": 58
+    },
+    {
+     "w": "AI",
+     "f": 67
+    },
+    {
+     "w": "is",
+     "f": 85
+    },
+    {
+     "w": "the",
+     "f": 88
+    },
+    {
+     "w": "neural",
+     "f": 90
+    },
+    {
+     "w": "network",
+     "f": 100
+    }
+   ]
+  },
+  {
+   "i": 47,
+   "chapter": "nn",
+   "shot": "nnintro",
+   "text": "Neural networks are loosely inspired by the way biological brains process information.",
+   "k": "INSPIRED BY THE *BRAIN*",
+   "p": "bottom",
+   "file": "audio/vo/047.mp3",
+   "startFrame": 4557,
+   "durFrames": 145,
+   "slotFrames": 152,
+   "words": [
+    {
+     "w": "Neural",
+     "f": 3
+    },
+    {
+     "w": "networks",
+     "f": 11
+    },
+    {
+     "w": "are",
+     "f": 24
+    },
+    {
+     "w": "loosely",
+     "f": 28
+    },
+    {
+     "w": "inspired",
+     "f": 43
+    },
+    {
+     "w": "by",
+     "f": 60
+    },
+    {
+     "w": "the",
+     "f": 64
+    },
+    {
+     "w": "way",
+     "f": 67
+    },
+    {
+     "w": "biological",
+     "f": 73
+    },
+    {
+     "w": "brains",
+     "f": 96
+    },
+    {
+     "w": "process",
+     "f": 109
+    },
+    {
+     "w": "information",
+     "f": 123
+    }
+   ]
+  },
+  {
+   "i": 48,
+   "chapter": "nn",
+   "shot": "nnlayers",
+   "text": "A neural network contains layers of mathematical operations.",
+   "k": "LAYERS OF *MATH*",
+   "p": "bottom",
+   "file": "audio/vo/048.mp3",
+   "startFrame": 4709,
+   "durFrames": 101,
+   "slotFrames": 108,
+   "words": [
+    {
+     "w": "A",
+     "f": 2
+    },
+    {
+     "w": "neural",
+     "f": 3
+    },
+    {
+     "w": "network",
+     "f": 13
+    },
+    {
+     "w": "contains",
+     "f": 27
+    },
+    {
+     "w": "layers",
+     "f": 40
+    },
+    {
+     "w": "of",
+     "f": 52
+    },
+    {
+     "w": "mathematical",
+     "f": 55
+    },
+    {
+     "w": "operations",
+     "f": 76
+    }
+   ]
+  },
+  {
+   "i": 49,
+   "chapter": "nn",
+   "shot": "nnlayers",
+   "text": "You give it an input...",
+   "k": "*INPUT*",
+   "p": "bottom",
+   "file": "audio/vo/049.mp3",
+   "startFrame": 4817,
+   "durFrames": 30,
+   "slotFrames": 37,
+   "words": [
+    {
+     "w": "You",
+     "f": 3
+    },
+    {
+     "w": "give",
+     "f": 5
+    },
+    {
+     "w": "it",
+     "f": 9
+    },
+    {
+     "w": "an",
+     "f": 11
+    },
+    {
+     "w": "input",
+     "f": 13
+    }
+   ]
+  },
+  {
+   "i": 50,
+   "chapter": "nn",
+   "shot": "nnlayers",
+   "text": "the information passes through these layers...",
+   "k": "THROUGH THE *LAYERS*",
+   "p": "bottom",
+   "file": "audio/vo/050.mp3",
+   "startFrame": 4854,
+   "durFrames": 66,
+   "slotFrames": 72,
+   "words": [
+    {
+     "w": "the",
+     "f": 3
+    },
+    {
+     "w": "information",
+     "f": 4
+    },
+    {
+     "w": "passes",
+     "f": 22
+    },
+    {
+     "w": "through",
+     "f": 36
+    },
+    {
+     "w": "these",
+     "f": 41
+    },
+    {
+     "w": "layers",
+     "f": 47
+    }
+   ]
+  },
+  {
+   "i": 51,
+   "chapter": "nn",
+   "shot": "nnlayers",
+   "text": "and eventually you get an output.",
+   "k": "*OUTPUT*",
+   "p": "bottom",
+   "file": "audio/vo/051.mp3",
+   "startFrame": 4926,
+   "durFrames": 46,
+   "slotFrames": 58,
+   "words": [
+    {
+     "w": "and",
+     "f": 3
+    },
+    {
+     "w": "eventually",
+     "f": 5
+    },
+    {
+     "w": "you",
+     "f": 18
+    },
+    {
+     "w": "get",
+     "f": 21
+    },
+    {
+     "w": "an",
+     "f": 26
+    },
+    {
+     "w": "output",
+     "f": 28
+    }
+   ]
+  },
+  {
+   "i": 52,
+   "chapter": "nn",
+   "shot": "catsdogs",
+   "text": "For example, give a neural network thousands of pictures of cats and dogs.",
+   "k": "CATS *VS* DOGS",
+   "p": "bottom",
+   "file": "audio/vo/052.mp3",
+   "startFrame": 4984,
+   "durFrames": 121,
+   "slotFrames": 127,
+   "words": [
+    {
+     "w": "For",
+     "f": 4
+    },
+    {
+     "w": "example",
+     "f": 7
+    },
+    {
+     "w": "give",
+     "f": 28
+    },
+    {
+     "w": "a",
+     "f": 31
+    },
+    {
+     "w": "neural",
+     "f": 32
+    },
+    {
+     "w": "network",
+     "f": 43
+    },
+    {
+     "w": "thousands",
+     "f": 55
+    },
+    {
+     "w": "of",
+     "f": 71
+    },
+    {
+     "w": "pictures",
+     "f": 73
+    },
+    {
+     "w": "of",
+     "f": 86
+    },
+    {
+     "w": "cats",
+     "f": 88
+    },
+    {
+     "w": "and",
+     "f": 99
+    },
+    {
+     "w": "dogs",
+     "f": 102
+    }
+   ]
+  },
+  {
+   "i": 53,
+   "chapter": "nn",
+   "shot": "catsdogs",
+   "text": "At first, its predictions are terrible.",
+   "k": "PREDICTIONS: *TERRIBLE*",
+   "p": "bottom",
+   "file": "audio/vo/053.mp3",
+   "startFrame": 5111,
+   "durFrames": 63,
+   "slotFrames": 74,
+   "words": [
+    {
+     "w": "At",
+     "f": 3
+    },
+    {
+     "w": "first",
+     "f": 6
+    },
+    {
+     "w": "its",
+     "f": 25
+    },
+    {
+     "w": "predictions",
+     "f": 28
+    },
+    {
+     "w": "are",
+     "f": 42
+    },
+    {
+     "w": "terrible",
+     "f": 44
+    }
+   ]
+  },
+  {
+   "i": 54,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "But during training, the system compares its prediction with the correct answer.",
+   "k": "PREDICTION *VS* ANSWER",
+   "p": "bottom",
+   "file": "audio/vo/054.mp3",
+   "startFrame": 5185,
+   "durFrames": 117,
+   "slotFrames": 124,
+   "words": [
+    {
+     "w": "But",
+     "f": 3
+    },
+    {
+     "w": "during",
+     "f": 6
+    },
+    {
+     "w": "training",
+     "f": 14
+    },
+    {
+     "w": "the",
+     "f": 35
+    },
+    {
+     "w": "system",
+     "f": 38
+    },
+    {
+     "w": "compares",
+     "f": 49
+    },
+    {
+     "w": "its",
+     "f": 63
+    },
+    {
+     "w": "prediction",
+     "f": 66
+    },
+    {
+     "w": "with",
+     "f": 86
+    },
+    {
+     "w": "the",
+     "f": 89
+    },
+    {
+     "w": "correct",
+     "f": 91
+    },
+    {
+     "w": "answer",
+     "f": 102
+    }
+   ]
+  },
+  {
+   "i": 55,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Then it adjusts millions, or even billions, of internal parameters.",
+   "k": "BILLIONS OF *PARAMETERS*",
+   "p": "bottom",
+   "file": "audio/vo/055.mp3",
+   "startFrame": 5309,
+   "durFrames": 120,
+   "slotFrames": 127,
+   "words": [
+    {
+     "w": "Then",
+     "f": 3
+    },
+    {
+     "w": "it",
+     "f": 6
+    },
+    {
+     "w": "adjusts",
+     "f": 9
+    },
+    {
+     "w": "millions",
+     "f": 21
+    },
+    {
+     "w": "or",
+     "f": 47
+    },
+    {
+     "w": "even",
+     "f": 51
+    },
+    {
+     "w": "billions",
+     "f": 59
+    },
+    {
+     "w": "of",
+     "f": 82
+    },
+    {
+     "w": "internal",
+     "f": 85
+    },
+    {
+     "w": "parameters",
+     "f": 96
+    }
+   ]
+  },
+  {
+   "i": 56,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Again and again.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/056.mp3",
+   "startFrame": 5436,
+   "durFrames": 34,
+   "slotFrames": 45,
+   "words": [
+    {
+     "w": "Again",
+     "f": 3
+    },
+    {
+     "w": "and",
+     "f": 16
+    },
+    {
+     "w": "again",
+     "f": 19
+    }
+   ]
+  },
+  {
+   "i": 57,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Prediction.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/057.mp3",
+   "startFrame": 5481,
+   "durFrames": 20,
+   "slotFrames": 25,
+   "words": [
+    {
+     "w": "Prediction",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 58,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Error.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/058.mp3",
+   "startFrame": 5506,
+   "durFrames": 16,
+   "slotFrames": 22,
+   "words": [
+    {
+     "w": "Error",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 59,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Adjustment.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/059.mp3",
+   "startFrame": 5528,
+   "durFrames": 22,
+   "slotFrames": 28,
+   "words": [
+    {
+     "w": "Adjustment",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 60,
+   "chapter": "nn",
+   "shot": "training",
+   "text": "Repeat.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/060.mp3",
+   "startFrame": 5556,
+   "durFrames": 19,
+   "slotFrames": 32,
+   "words": [
+    {
+     "w": "Repeat",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 61,
+   "chapter": "nn",
+   "shot": "deep",
+   "text": "Eventually, the network becomes extremely good at recognizing patterns.",
+   "k": "EXTREMELY *GOOD*",
+   "p": "bottom",
+   "file": "audio/vo/061.mp3",
+   "startFrame": 5588,
+   "durFrames": 120,
+   "slotFrames": 127,
+   "words": [
+    {
+     "w": "Eventually",
+     "f": 3
+    },
+    {
+     "w": "the",
+     "f": 26
+    },
+    {
+     "w": "network",
+     "f": 29
+    },
+    {
+     "w": "becomes",
+     "f": 40
+    },
+    {
+     "w": "extremely",
+     "f": 51
+    },
+    {
+     "w": "good",
+     "f": 68
+    },
+    {
+     "w": "at",
+     "f": 78
+    },
+    {
+     "w": "recognizing",
+     "f": 83
+    },
+    {
+     "w": "patterns",
+     "f": 100
+    }
+   ]
+  },
+  {
+   "i": 62,
+   "chapter": "nn",
+   "shot": "deep",
+   "text": "And this approach eventually led to something called Deep Learning.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/062.mp3",
+   "startFrame": 5715,
+   "durFrames": 93,
+   "slotFrames": 120,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "this",
+     "f": 6
+    },
+    {
+     "w": "approach",
+     "f": 12
+    },
+    {
+     "w": "eventually",
+     "f": 26
+    },
+    {
+     "w": "led",
+     "f": 41
+    },
+    {
+     "w": "to",
+     "f": 48
+    },
+    {
+     "w": "something",
+     "f": 50
+    },
+    {
+     "w": "called",
+     "f": 61
+    },
+    {
+     "w": "Deep",
+     "f": 72
+    },
+    {
+     "w": "Learning",
+     "f": 78
+    }
+   ]
+  },
+  {
+   "i": 63,
+   "chapter": "dl",
+   "shot": "three",
+   "text": "The real explosion happened when three things came together:",
+   "k": "THREE THINGS *CAME TOGETHER*",
+   "p": "bottom",
+   "file": "audio/vo/063.mp3",
+   "startFrame": 5835,
+   "durFrames": 89,
+   "slotFrames": 99,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "real",
+     "f": 5
+    },
+    {
+     "w": "explosion",
+     "f": 11
+    },
+    {
+     "w": "happened",
+     "f": 31
+    },
+    {
+     "w": "when",
+     "f": 43
+    },
+    {
+     "w": "three",
+     "f": 48
+    },
+    {
+     "w": "things",
+     "f": 57
+    },
+    {
+     "w": "came",
+     "f": 66
+    },
+    {
+     "w": "together",
+     "f": 72
+    }
+   ]
+  },
+  {
+   "i": 64,
+   "chapter": "dl",
+   "shot": "three",
+   "text": "More data.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/064.mp3",
+   "startFrame": 5934,
+   "durFrames": 20,
+   "slotFrames": 26,
+   "words": [
+    {
+     "w": "More",
+     "f": 3
+    },
+    {
+     "w": "data",
+     "f": 7
+    }
+   ]
+  },
+  {
+   "i": 65,
+   "chapter": "dl",
+   "shot": "three",
+   "text": "More powerful hardware.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/065.mp3",
+   "startFrame": 5960,
+   "durFrames": 40,
+   "slotFrames": 47,
+   "words": [
+    {
+     "w": "More",
+     "f": 3
+    },
+    {
+     "w": "powerful",
+     "f": 8
+    },
+    {
+     "w": "hardware",
+     "f": 21
+    }
+   ]
+  },
+  {
+   "i": 66,
+   "chapter": "dl",
+   "shot": "three",
+   "text": "And better algorithms.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/066.mp3",
+   "startFrame": 6007,
+   "durFrames": 38,
+   "slotFrames": 49,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "better",
+     "f": 5
+    },
+    {
+     "w": "algorithms",
+     "f": 14
+    }
+   ]
+  },
+  {
+   "i": 67,
+   "chapter": "dl",
+   "shot": "gpu",
+   "text": "Especially GPUs.",
+   "k": "ESPECIALLY *GPUs*",
+   "p": "bottom",
+   "file": "audio/vo/067.mp3",
+   "startFrame": 6056,
+   "durFrames": 44,
+   "slotFrames": 53,
+   "words": [
+    {
+     "w": "Especially",
+     "f": 3
+    },
+    {
+     "w": "GPUs",
+     "f": 18
+    }
+   ]
+  },
+  {
+   "i": 68,
+   "chapter": "dl",
+   "shot": "gpu",
+   "text": "Originally designed mainly for graphics, GPUs turned out to be extremely useful for performing the huge number of mathematical calculations needed to train neural networks.",
+   "k": "BUILT FOR GRAPHICS.|PERFECT FOR *MATH*.",
+   "p": "bottom",
+   "file": "audio/vo/068.mp3",
+   "startFrame": 6109,
+   "durFrames": 284,
+   "slotFrames": 291,
+   "words": [
+    {
+     "w": "Originally",
+     "f": 3
+    },
+    {
+     "w": "designed",
+     "f": 18
+    },
+    {
+     "w": "mainly",
+     "f": 32
+    },
+    {
+     "w": "for",
+     "f": 43
+    },
+    {
+     "w": "graphics",
+     "f": 48
+    },
+    {
+     "w": "GPUs",
+     "f": 72
+    },
+    {
+     "w": "turned",
+     "f": 91
+    },
+    {
+     "w": "out",
+     "f": 99
+    },
+    {
+     "w": "to",
+     "f": 103
+    },
+    {
+     "w": "be",
+     "f": 105
+    },
+    {
+     "w": "extremely",
+     "f": 109
+    },
+    {
+     "w": "useful",
+     "f": 128
+    },
+    {
+     "w": "for",
+     "f": 141
+    },
+    {
+     "w": "performing",
+     "f": 145
+    },
+    {
+     "w": "the",
+     "f": 162
+    },
+    {
+     "w": "huge",
+     "f": 164
+    },
+    {
+     "w": "number",
+     "f": 177
+    },
+    {
+     "w": "of",
+     "f": 191
+    },
+    {
+     "w": "mathematical",
+     "f": 194
+    },
+    {
+     "w": "calculations",
+     "f": 213
+    },
+    {
+     "w": "needed",
+     "f": 235
+    },
+    {
+     "w": "to",
+     "f": 245
+    },
+    {
+     "w": "train",
+     "f": 247
+    },
+    {
+     "w": "neural",
+     "f": 257
+    },
+    {
+     "w": "networks",
+     "f": 264
+    }
+   ]
+  },
+  {
+   "i": 69,
+   "chapter": "dl",
+   "shot": "alexnet",
+   "text": "Then, in 2012, a neural network called AlexNet achieved a major breakthrough in image recognition.",
+   "k": "*ALEXNET*  \u00b7  2012",
+   "p": "bottom",
+   "file": "audio/vo/069.mp3",
+   "startFrame": 6400,
+   "durFrames": 194,
+   "slotFrames": 201,
+   "words": [
+    {
+     "w": "Then",
+     "f": 3
+    },
+    {
+     "w": "in 2012",
+     "f": 21
+    },
+    {
+     "w": "a",
+     "f": 61
+    },
+    {
+     "w": "neural",
+     "f": 62
+    },
+    {
+     "w": "network",
+     "f": 71
+    },
+    {
+     "w": "called",
+     "f": 83
+    },
+    {
+     "w": "AlexNet",
+     "f": 93
+    },
+    {
+     "w": "achieved",
+     "f": 114
+    },
+    {
+     "w": "a",
+     "f": 125
+    },
+    {
+     "w": "major",
+     "f": 126
+    },
+    {
+     "w": "breakthrough",
+     "f": 138
+    },
+    {
+     "w": "in",
+     "f": 158
+    },
+    {
+     "w": "image",
+     "f": 165
+    },
+    {
+     "w": "recognition",
+     "f": 172
+    }
+   ]
+  },
+  {
+   "i": 70,
+   "chapter": "dl",
+   "shot": "alexnet",
+   "text": "It dramatically outperformed traditional approaches in a major computer vision competition.",
+   "k": "DRAMATICALLY *OUTPERFORMED*",
+   "p": "bottom",
+   "file": "audio/vo/070.mp3",
+   "startFrame": 6601,
+   "durFrames": 145,
+   "slotFrames": 151,
+   "words": [
+    {
+     "w": "It",
+     "f": 3
+    },
+    {
+     "w": "dramatically",
+     "f": 6
+    },
+    {
+     "w": "outperformed",
+     "f": 26
+    },
+    {
+     "w": "traditional",
+     "f": 48
+    },
+    {
+     "w": "approaches",
+     "f": 63
+    },
+    {
+     "w": "in",
+     "f": 84
+    },
+    {
+     "w": "a",
+     "f": 87
+    },
+    {
+     "w": "major",
+     "f": 88
+    },
+    {
+     "w": "computer",
+     "f": 100
+    },
+    {
+     "w": "vision",
+     "f": 114
+    },
+    {
+     "w": "competition",
+     "f": 122
+    }
+   ]
+  },
+  {
+   "i": 71,
+   "chapter": "dl",
+   "shot": "scale",
+   "text": "This showed researchers that deep neural networks could scale much further than many people expected.",
+   "k": "IT COULD *SCALE*",
+   "p": "bottom",
+   "file": "audio/vo/071.mp3",
+   "startFrame": 6752,
+   "durFrames": 154,
+   "slotFrames": 162,
+   "words": [
+    {
+     "w": "This",
+     "f": 3
+    },
+    {
+     "w": "showed",
+     "f": 7
+    },
+    {
+     "w": "researchers",
+     "f": 15
+    },
+    {
+     "w": "that",
+     "f": 32
+    },
+    {
+     "w": "deep",
+     "f": 40
+    },
+    {
+     "w": "neural",
+     "f": 46
+    },
+    {
+     "w": "networks",
+     "f": 55
+    },
+    {
+     "w": "could",
+     "f": 68
+    },
+    {
+     "w": "scale",
+     "f": 73
+    },
+    {
+     "w": "much",
+     "f": 90
+    },
+    {
+     "w": "further",
+     "f": 98
+    },
+    {
+     "w": "than",
+     "f": 113
+    },
+    {
+     "w": "many",
+     "f": 118
+    },
+    {
+     "w": "people",
+     "f": 126
+    },
+    {
+     "w": "expected",
+     "f": 135
+    }
+   ]
+  },
+  {
+   "i": 72,
+   "chapter": "dl",
+   "shot": "scale",
+   "text": "And AI research accelerated rapidly.",
+   "k": "RESEARCH *ACCELERATED*",
+   "p": "bottom",
+   "file": "audio/vo/072.mp3",
+   "startFrame": 6914,
+   "durFrames": 70,
+   "slotFrames": 96,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "AI",
+     "f": 7
+    },
+    {
+     "w": "research",
+     "f": 16
+    },
+    {
+     "w": "accelerated",
+     "f": 31
+    },
+    {
+     "w": "rapidly",
+     "f": 50
+    }
+   ]
+  },
+  {
+   "i": 73,
+   "chapter": "tf",
+   "shot": "paper2017",
+   "text": "Then came another huge breakthrough.",
+   "k": "ANOTHER *BREAKTHROUGH*",
+   "p": "bottom",
+   "file": "audio/vo/073.mp3",
+   "startFrame": 7010,
+   "durFrames": 51,
+   "slotFrames": 60,
+   "words": [
+    {
+     "w": "Then",
+     "f": 3
+    },
+    {
+     "w": "came",
+     "f": 9
+    },
+    {
+     "w": "another",
+     "f": 15
+    },
+    {
+     "w": "huge",
+     "f": 23
+    },
+    {
+     "w": "breakthrough",
+     "f": 33
+    }
+   ]
+  },
+  {
+   "i": 74,
+   "chapter": "tf",
+   "shot": "paper2017",
+   "text": "2017.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/074.mp3",
+   "startFrame": 7070,
+   "durFrames": 40,
+   "slotFrames": 52,
+   "words": [
+    {
+     "w": "2017",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 75,
+   "chapter": "tf",
+   "shot": "paper2017",
+   "text": "Researchers at Google published a paper called:",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/075.mp3",
+   "startFrame": 7122,
+   "durFrames": 67,
+   "slotFrames": 74,
+   "words": [
+    {
+     "w": "Researchers",
+     "f": 3
+    },
+    {
+     "w": "at",
+     "f": 18
+    },
+    {
+     "w": "Google",
+     "f": 22
+    },
+    {
+     "w": "published",
+     "f": 31
+    },
+    {
+     "w": "a",
+     "f": 42
+    },
+    {
+     "w": "paper",
+     "f": 44
+    },
+    {
+     "w": "called",
+     "f": 52
+    }
+   ]
+  },
+  {
+   "i": 76,
+   "chapter": "tf",
+   "shot": "paper2017",
+   "text": "Attention Is All You Need.",
+   "k": "\"ATTENTION IS *ALL YOU NEED*\"",
+   "p": "bottom",
+   "file": "audio/vo/076.mp3",
+   "startFrame": 7196,
+   "durFrames": 48,
+   "slotFrames": 61,
+   "words": [
+    {
+     "w": "Attention",
+     "f": 3
+    },
+    {
+     "w": "Is",
+     "f": 19
+    },
+    {
+     "w": "All",
+     "f": 26
+    },
+    {
+     "w": "You",
+     "f": 32
+    },
+    {
+     "w": "Need",
+     "f": 35
+    }
+   ]
+  },
+  {
+   "i": 77,
+   "chapter": "tf",
+   "shot": "transformer",
+   "text": "It introduced the Transformer architecture.",
+   "k": "THE *TRANSFORMER*",
+   "p": "bottom",
+   "file": "audio/vo/077.mp3",
+   "startFrame": 7257,
+   "durFrames": 67,
+   "slotFrames": 74,
+   "words": [
+    {
+     "w": "It",
+     "f": 3
+    },
+    {
+     "w": "introduced",
+     "f": 6
+    },
+    {
+     "w": "the",
+     "f": 23
+    },
+    {
+     "w": "Transformer",
+     "f": 25
+    },
+    {
+     "w": "architecture",
+     "f": 43
+    }
+   ]
+  },
+  {
+   "i": 78,
+   "chapter": "tf",
+   "shot": "transformer",
+   "text": "Transformers changed how AI could process sequences of information, especially language.",
+   "k": "SEQUENCES  \u00b7  *LANGUAGE*",
+   "p": "bottom",
+   "file": "audio/vo/078.mp3",
+   "startFrame": 7331,
+   "durFrames": 155,
+   "slotFrames": 161,
+   "words": [
+    {
+     "w": "Transformers",
+     "f": 3
+    },
+    {
+     "w": "changed",
+     "f": 23
+    },
+    {
+     "w": "how",
+     "f": 35
+    },
+    {
+     "w": "AI",
+     "f": 41
+    },
+    {
+     "w": "could",
+     "f": 54
+    },
+    {
+     "w": "process",
+     "f": 60
+    },
+    {
+     "w": "sequences",
+     "f": 75
+    },
+    {
+     "w": "of",
+     "f": 91
+    },
+    {
+     "w": "information",
+     "f": 94
+    },
+    {
+     "w": "especially",
+     "f": 121
+    },
+    {
+     "w": "language",
+     "f": 135
+    }
+   ]
+  },
+  {
+   "i": 79,
+   "chapter": "tf",
+   "shot": "attention",
+   "text": "Instead of simply reading one word at a time, the model could learn relationships between different parts of a sentence.",
+   "k": "LEARNING *RELATIONSHIPS*",
+   "p": "bottom",
+   "file": "audio/vo/079.mp3",
+   "startFrame": 7492,
+   "durFrames": 174,
+   "slotFrames": 181,
+   "words": [
+    {
+     "w": "Instead",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 11
+    },
+    {
+     "w": "simply",
+     "f": 14
+    },
+    {
+     "w": "reading",
+     "f": 25
+    },
+    {
+     "w": "one",
+     "f": 34
+    },
+    {
+     "w": "word",
+     "f": 41
+    },
+    {
+     "w": "at",
+     "f": 48
+    },
+    {
+     "w": "a",
+     "f": 50
+    },
+    {
+     "w": "time",
+     "f": 51
+    },
+    {
+     "w": "the",
+     "f": 73
+    },
+    {
+     "w": "model",
+     "f": 76
+    },
+    {
+     "w": "could",
+     "f": 84
+    },
+    {
+     "w": "learn",
+     "f": 90
+    },
+    {
+     "w": "relationships",
+     "f": 97
+    },
+    {
+     "w": "between",
+     "f": 118
+    },
+    {
+     "w": "different",
+     "f": 131
+    },
+    {
+     "w": "parts",
+     "f": 141
+    },
+    {
+     "w": "of",
+     "f": 150
+    },
+    {
+     "w": "a",
+     "f": 152
+    },
+    {
+     "w": "sentence",
+     "f": 154
+    }
+   ]
+  },
+  {
+   "i": 80,
+   "chapter": "tf",
+   "shot": "attention",
+   "text": "And this architecture became the foundation for many modern AI systems.",
+   "k": "THE FOUNDATION OF *MODERN AI*",
+   "p": "bottom",
+   "file": "audio/vo/080.mp3",
+   "startFrame": 7673,
+   "durFrames": 116,
+   "slotFrames": 122,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "this",
+     "f": 6
+    },
+    {
+     "w": "architecture",
+     "f": 12
+    },
+    {
+     "w": "became",
+     "f": 29
+    },
+    {
+     "w": "the",
+     "f": 39
+    },
+    {
+     "w": "foundation",
+     "f": 41
+    },
+    {
+     "w": "for",
+     "f": 59
+    },
+    {
+     "w": "many",
+     "f": 64
+    },
+    {
+     "w": "modern",
+     "f": 76
+    },
+    {
+     "w": "AI",
+     "f": 87
+    },
+    {
+     "w": "systems",
+     "f": 94
+    }
+   ]
+  },
+  {
+   "i": 81,
+   "chapter": "tf",
+   "shot": "llm",
+   "text": "Large language models were trained on enormous amounts of text.",
+   "k": "*ENORMOUS* AMOUNTS OF TEXT",
+   "p": "bottom",
+   "file": "audio/vo/081.mp3",
+   "startFrame": 7795,
+   "durFrames": 100,
+   "slotFrames": 107,
+   "words": [
+    {
+     "w": "Large",
+     "f": 3
+    },
+    {
+     "w": "language",
+     "f": 12
+    },
+    {
+     "w": "models",
+     "f": 23
+    },
+    {
+     "w": "were",
+     "f": 33
+    },
+    {
+     "w": "trained",
+     "f": 36
+    },
+    {
+     "w": "on",
+     "f": 49
+    },
+    {
+     "w": "enormous",
+     "f": 53
+    },
+    {
+     "w": "amounts",
+     "f": 69
+    },
+    {
+     "w": "of",
+     "f": 78
+    },
+    {
+     "w": "text",
+     "f": 81
+    }
+   ]
+  },
+  {
+   "i": 82,
+   "chapter": "tf",
+   "shot": "llm",
+   "text": "They learned statistical patterns in language.",
+   "k": "STATISTICAL *PATTERNS*",
+   "p": "bottom",
+   "file": "audio/vo/082.mp3",
+   "startFrame": 7902,
+   "durFrames": 65,
+   "slotFrames": 71,
+   "words": [
+    {
+     "w": "They",
+     "f": 3
+    },
+    {
+     "w": "learned",
+     "f": 5
+    },
+    {
+     "w": "statistical",
+     "f": 13
+    },
+    {
+     "w": "patterns",
+     "f": 30
+    },
+    {
+     "w": "in",
+     "f": 42
+    },
+    {
+     "w": "language",
+     "f": 45
+    }
+   ]
+  },
+  {
+   "i": 83,
+   "chapter": "tf",
+   "shot": "llm",
+   "text": "They learned how words, concepts, and structures relate to each other.",
+   "k": "WORDS  \u00b7  CONCEPTS  \u00b7  *STRUCTURES*",
+   "p": "bottom",
+   "file": "audio/vo/083.mp3",
+   "startFrame": 7973,
+   "durFrames": 118,
+   "slotFrames": 129,
+   "words": [
+    {
+     "w": "They",
+     "f": 3
+    },
+    {
+     "w": "learned",
+     "f": 5
+    },
+    {
+     "w": "how",
+     "f": 14
+    },
+    {
+     "w": "words",
+     "f": 21
+    },
+    {
+     "w": "concepts",
+     "f": 41
+    },
+    {
+     "w": "and",
+     "f": 67
+    },
+    {
+     "w": "structures",
+     "f": 70
+    },
+    {
+     "w": "relate",
+     "f": 86
+    },
+    {
+     "w": "to",
+     "f": 96
+    },
+    {
+     "w": "each",
+     "f": 100
+    },
+    {
+     "w": "other",
+     "f": 105
+    }
+   ]
+  },
+  {
+   "i": 84,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "And eventually, something surprising happened.",
+   "k": "SOMETHING *SURPRISING*",
+   "p": "bottom",
+   "file": "audio/vo/084.mp3",
+   "startFrame": 8102,
+   "durFrames": 67,
+   "slotFrames": 74,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "eventually",
+     "f": 5
+    },
+    {
+     "w": "something",
+     "f": 28
+    },
+    {
+     "w": "surprising",
+     "f": 37
+    },
+    {
+     "w": "happened",
+     "f": 52
+    }
+   ]
+  },
+  {
+   "i": 85,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "These models weren't just completing sentences.",
+   "k": "NOT JUST *COMPLETING SENTENCES*",
+   "p": "bottom",
+   "file": "audio/vo/085.mp3",
+   "startFrame": 8176,
+   "durFrames": 71,
+   "slotFrames": 77,
+   "words": [
+    {
+     "w": "These",
+     "f": 3
+    },
+    {
+     "w": "models",
+     "f": 9
+    },
+    {
+     "w": "weren't",
+     "f": 19
+    },
+    {
+     "w": "just",
+     "f": 28
+    },
+    {
+     "w": "completing",
+     "f": 36
+    },
+    {
+     "w": "sentences",
+     "f": 49
+    }
+   ]
+  },
+  {
+   "i": 86,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "They could write essays.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/086.mp3",
+   "startFrame": 8253,
+   "durFrames": 33,
+   "slotFrames": 38,
+   "words": [
+    {
+     "w": "They",
+     "f": 3
+    },
+    {
+     "w": "could",
+     "f": 5
+    },
+    {
+     "w": "write",
+     "f": 9
+    },
+    {
+     "w": "essays",
+     "f": 14
+    }
+   ]
+  },
+  {
+   "i": 87,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "Generate code.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/087.mp3",
+   "startFrame": 8291,
+   "durFrames": 28,
+   "slotFrames": 33,
+   "words": [
+    {
+     "w": "Generate",
+     "f": 3
+    },
+    {
+     "w": "code",
+     "f": 14
+    }
+   ]
+  },
+  {
+   "i": 88,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "Translate languages.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/088.mp3",
+   "startFrame": 8324,
+   "durFrames": 37,
+   "slotFrames": 41,
+   "words": [
+    {
+     "w": "Translate",
+     "f": 3
+    },
+    {
+     "w": "languages",
+     "f": 15
+    }
+   ]
+  },
+  {
+   "i": 89,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "Summarize information.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/089.mp3",
+   "startFrame": 8365,
+   "durFrames": 37,
+   "slotFrames": 41,
+   "words": [
+    {
+     "w": "Summarize",
+     "f": 3
+    },
+    {
+     "w": "information",
+     "f": 16
+    }
+   ]
+  },
+  {
+   "i": 90,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "Answer questions.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/090.mp3",
+   "startFrame": 8406,
+   "durFrames": 30,
+   "slotFrames": 35,
+   "words": [
+    {
+     "w": "Answer",
+     "f": 3
+    },
+    {
+     "w": "questions",
+     "f": 9
+    }
+   ]
+  },
+  {
+   "i": 91,
+   "chapter": "tf",
+   "shot": "capabilities",
+   "text": "And interact conversationally.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/091.mp3",
+   "startFrame": 8441,
+   "durFrames": 51,
+   "slotFrames": 78,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "interact",
+     "f": 8
+    },
+    {
+     "w": "conversationally",
+     "f": 22
+    }
+   ]
+  },
+  {
+   "i": 92,
+   "chapter": "chat",
+   "shot": "release",
+   "text": "Then, in November 2022, ChatGPT was released publicly.",
+   "k": "CHATGPT *RELEASED*",
+   "p": "bottom",
+   "file": "audio/vo/092.mp3",
+   "startFrame": 8519,
+   "durFrames": 128,
+   "slotFrames": 134,
+   "words": [
+    {
+     "w": "Then",
+     "f": 3
+    },
+    {
+     "w": "in",
+     "f": 19
+    },
+    {
+     "w": "November 2022",
+     "f": 22
+    },
+    {
+     "w": "ChatGPT",
+     "f": 64
+    },
+    {
+     "w": "was",
+     "f": 93
+    },
+    {
+     "w": "released",
+     "f": 99
+    },
+    {
+     "w": "publicly",
+     "f": 109
+    }
+   ]
+  },
+  {
+   "i": 93,
+   "chapter": "chat",
+   "shot": "release",
+   "text": "And suddenly, AI wasn't something only researchers or large companies were experimenting with.",
+   "k": "NOT JUST FOR *LABS*",
+   "p": "bottom",
+   "file": "audio/vo/093.mp3",
+   "startFrame": 8653,
+   "durFrames": 156,
+   "slotFrames": 162,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "suddenly",
+     "f": 5
+    },
+    {
+     "w": "AI",
+     "f": 31
+    },
+    {
+     "w": "wasn't",
+     "f": 39
+    },
+    {
+     "w": "something",
+     "f": 48
+    },
+    {
+     "w": "only",
+     "f": 61
+    },
+    {
+     "w": "researchers",
+     "f": 71
+    },
+    {
+     "w": "or",
+     "f": 90
+    },
+    {
+     "w": "large",
+     "f": 97
+    },
+    {
+     "w": "companies",
+     "f": 107
+    },
+    {
+     "w": "were",
+     "f": 120
+    },
+    {
+     "w": "experimenting",
+     "f": 123
+    },
+    {
+     "w": "with",
+     "f": 143
+    }
+   ]
+  },
+  {
+   "i": 94,
+   "chapter": "chat",
+   "shot": "chatui",
+   "text": "Millions of ordinary people could simply open a website...",
+   "k": "*MILLIONS* OF PEOPLE",
+   "p": "bottom",
+   "file": "audio/vo/094.mp3",
+   "startFrame": 8815,
+   "durFrames": 90,
+   "slotFrames": 97,
+   "words": [
+    {
+     "w": "Millions",
+     "f": 3
+    },
+    {
+     "w": "of",
+     "f": 15
+    },
+    {
+     "w": "ordinary",
+     "f": 19
+    },
+    {
+     "w": "people",
+     "f": 32
+    },
+    {
+     "w": "could",
+     "f": 42
+    },
+    {
+     "w": "simply",
+     "f": 47
+    },
+    {
+     "w": "open",
+     "f": 61
+    },
+    {
+     "w": "a",
+     "f": 67
+    },
+    {
+     "w": "website",
+     "f": 69
+    }
+   ]
+  },
+  {
+   "i": 95,
+   "chapter": "chat",
+   "shot": "chatui",
+   "text": "type a question...",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/095.mp3",
+   "startFrame": 8912,
+   "durFrames": 25,
+   "slotFrames": 32,
+   "words": [
+    {
+     "w": "type",
+     "f": 3
+    },
+    {
+     "w": "a",
+     "f": 7
+    },
+    {
+     "w": "question",
+     "f": 9
+    }
+   ]
+  },
+  {
+   "i": 96,
+   "chapter": "chat",
+   "shot": "chatui",
+   "text": "and have a conversation with an AI.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/096.mp3",
+   "startFrame": 8944,
+   "durFrames": 52,
+   "slotFrames": 63,
+   "words": [
+    {
+     "w": "and",
+     "f": 3
+    },
+    {
+     "w": "have",
+     "f": 5
+    },
+    {
+     "w": "a",
+     "f": 9
+    },
+    {
+     "w": "conversation",
+     "f": 11
+    },
+    {
+     "w": "with",
+     "f": 30
+    },
+    {
+     "w": "an",
+     "f": 34
+    },
+    {
+     "w": "AI",
+     "f": 37
+    }
+   ]
+  },
+  {
+   "i": 97,
+   "chapter": "chat",
+   "shot": "boom",
+   "text": "This triggered an enormous wave of interest in generative AI.",
+   "k": "AN *ENORMOUS* WAVE",
+   "p": "bottom",
+   "file": "audio/vo/097.mp3",
+   "startFrame": 9007,
+   "durFrames": 101,
+   "slotFrames": 108,
+   "words": [
+    {
+     "w": "This",
+     "f": 3
+    },
+    {
+     "w": "triggered",
+     "f": 10
+    },
+    {
+     "w": "an",
+     "f": 23
+    },
+    {
+     "w": "enormous",
+     "f": 27
+    },
+    {
+     "w": "wave",
+     "f": 43
+    },
+    {
+     "w": "of",
+     "f": 51
+    },
+    {
+     "w": "interest",
+     "f": 55
+    },
+    {
+     "w": "in",
+     "f": 70
+    },
+    {
+     "w": "generative",
+     "f": 74
+    },
+    {
+     "w": "AI",
+     "f": 86
+    }
+   ]
+  },
+  {
+   "i": 98,
+   "chapter": "chat",
+   "shot": "boom",
+   "text": "Companies began building AI systems for coding, images, audio, video, research, education, business, and much more.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/098.mp3",
+   "startFrame": 9115,
+   "durFrames": 239,
+   "slotFrames": 245,
+   "words": [
+    {
+     "w": "Companies",
+     "f": 3
+    },
+    {
+     "w": "began",
+     "f": 14
+    },
+    {
+     "w": "building",
+     "f": 25
+    },
+    {
+     "w": "AI",
+     "f": 36
+    },
+    {
+     "w": "systems",
+     "f": 46
+    },
+    {
+     "w": "for",
+     "f": 60
+    },
+    {
+     "w": "coding",
+     "f": 64
+    },
+    {
+     "w": "images",
+     "f": 86
+    },
+    {
+     "w": "audio",
+     "f": 106
+    },
+    {
+     "w": "video",
+     "f": 127
+    },
+    {
+     "w": "research",
+     "f": 148
+    },
+    {
+     "w": "education",
+     "f": 169
+    },
+    {
+     "w": "business",
+     "f": 195
+    },
+    {
+     "w": "and",
+     "f": 215
+    },
+    {
+     "w": "much",
+     "f": 219
+    },
+    {
+     "w": "more",
+     "f": 225
+    }
+   ]
+  },
+  {
+   "i": 99,
+   "chapter": "chat",
+   "shot": "boom",
+   "text": "AI had officially entered everyday life.",
+   "k": "AI ENTERED *EVERYDAY LIFE*",
+   "p": "center",
+   "file": "audio/vo/099.mp3",
+   "startFrame": 9360,
+   "durFrames": 69,
+   "slotFrames": 97,
+   "words": [
+    {
+     "w": "AI",
+     "f": 3
+    },
+    {
+     "w": "had",
+     "f": 10
+    },
+    {
+     "w": "officially",
+     "f": 14
+    },
+    {
+     "w": "entered",
+     "f": 29
+    },
+    {
+     "w": "everyday",
+     "f": 42
+    },
+    {
+     "w": "life",
+     "f": 53
+    }
+   ]
+  },
+  {
+   "i": 100,
+   "chapter": "why",
+   "shot": "notprog",
+   "text": "But here's the most important part.",
+   "k": "THE MOST *IMPORTANT* PART",
+   "p": "bottom",
+   "file": "audio/vo/100.mp3",
+   "startFrame": 9457,
+   "durFrames": 45,
+   "slotFrames": 53,
+   "words": [
+    {
+     "w": "But",
+     "f": 3
+    },
+    {
+     "w": "here's",
+     "f": 5
+    },
+    {
+     "w": "the",
+     "f": 12
+    },
+    {
+     "w": "most",
+     "f": 15
+    },
+    {
+     "w": "important",
+     "f": 21
+    },
+    {
+     "w": "part",
+     "f": 32
+    }
+   ]
+  },
+  {
+   "i": 101,
+   "chapter": "why",
+   "shot": "notprog",
+   "text": "AI didn't suddenly become intelligent because someone programmed intelligence into it.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/101.mp3",
+   "startFrame": 9510,
+   "durFrames": 126,
+   "slotFrames": 133,
+   "words": [
+    {
+     "w": "AI",
+     "f": 3
+    },
+    {
+     "w": "didn't",
+     "f": 11
+    },
+    {
+     "w": "suddenly",
+     "f": 18
+    },
+    {
+     "w": "become",
+     "f": 30
+    },
+    {
+     "w": "intelligent",
+     "f": 39
+    },
+    {
+     "w": "because",
+     "f": 58
+    },
+    {
+     "w": "someone",
+     "f": 66
+    },
+    {
+     "w": "programmed",
+     "f": 76
+    },
+    {
+     "w": "intelligence",
+     "f": 91
+    },
+    {
+     "w": "into",
+     "f": 108
+    },
+    {
+     "w": "it",
+     "f": 117
+    }
+   ]
+  },
+  {
+   "i": 102,
+   "chapter": "why",
+   "shot": "notprog",
+   "text": "Modern AI became powerful because researchers discovered ways to let machines learn patterns from enormous amounts of data, using increasingly powerful mathematical models and hardware.",
+   "k": "IT *LEARNED* FROM DATA",
+   "p": "bottom",
+   "file": "audio/vo/102.mp3",
+   "startFrame": 9643,
+   "durFrames": 316,
+   "slotFrames": 323,
+   "words": [
+    {
+     "w": "Modern",
+     "f": 3
+    },
+    {
+     "w": "AI",
+     "f": 13
+    },
+    {
+     "w": "became",
+     "f": 24
+    },
+    {
+     "w": "powerful",
+     "f": 36
+    },
+    {
+     "w": "because",
+     "f": 55
+    },
+    {
+     "w": "researchers",
+     "f": 63
+    },
+    {
+     "w": "discovered",
+     "f": 80
+    },
+    {
+     "w": "ways",
+     "f": 96
+    },
+    {
+     "w": "to",
+     "f": 105
+    },
+    {
+     "w": "let",
+     "f": 108
+    },
+    {
+     "w": "machines",
+     "f": 114
+    },
+    {
+     "w": "learn",
+     "f": 129
+    },
+    {
+     "w": "patterns",
+     "f": 139
+    },
+    {
+     "w": "from",
+     "f": 153
+    },
+    {
+     "w": "enormous",
+     "f": 161
+    },
+    {
+     "w": "amounts",
+     "f": 177
+    },
+    {
+     "w": "of",
+     "f": 186
+    },
+    {
+     "w": "data",
+     "f": 189
+    },
+    {
+     "w": "using",
+     "f": 211
+    },
+    {
+     "w": "increasingly",
+     "f": 219
+    },
+    {
+     "w": "powerful",
+     "f": 239
+    },
+    {
+     "w": "mathematical",
+     "f": 255
+    },
+    {
+     "w": "models",
+     "f": 274
+    },
+    {
+     "w": "and",
+     "f": 292
+    },
+    {
+     "w": "hardware",
+     "f": 297
+    }
+   ]
+  },
+  {
+   "i": 103,
+   "chapter": "why",
+   "shot": "loop",
+   "text": "The basic loop is surprisingly simple:",
+   "k": "SURPRISINGLY *SIMPLE*",
+   "p": "bottom",
+   "file": "audio/vo/103.mp3",
+   "startFrame": 9966,
+   "durFrames": 62,
+   "slotFrames": 71,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "basic",
+     "f": 5
+    },
+    {
+     "w": "loop",
+     "f": 16
+    },
+    {
+     "w": "is",
+     "f": 26
+    },
+    {
+     "w": "surprisingly",
+     "f": 29
+    },
+    {
+     "w": "simple",
+     "f": 46
+    }
+   ]
+  },
+  {
+   "i": 104,
+   "chapter": "why",
+   "shot": "loop",
+   "text": "Data. Training. Prediction. Error. Adjustment. Repeat.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/104.mp3",
+   "startFrame": 10037,
+   "durFrames": 129,
+   "slotFrames": 142,
+   "words": [
+    {
+     "w": "Data",
+     "f": 3
+    },
+    {
+     "w": "Training",
+     "f": 21
+    },
+    {
+     "w": "Prediction",
+     "f": 43
+    },
+    {
+     "w": "Error",
+     "f": 66
+    },
+    {
+     "w": "Adjustment",
+     "f": 86
+    },
+    {
+     "w": "Repeat",
+     "f": 112
+    }
+   ]
+  },
+  {
+   "i": 105,
+   "chapter": "why",
+   "shot": "emerge",
+   "text": "Do that billions of times...",
+   "k": "*BILLIONS* OF TIMES",
+   "p": "bottom",
+   "file": "audio/vo/105.mp3",
+   "startFrame": 10179,
+   "durFrames": 44,
+   "slotFrames": 51,
+   "words": [
+    {
+     "w": "Do",
+     "f": 3
+    },
+    {
+     "w": "that",
+     "f": 6
+    },
+    {
+     "w": "billions",
+     "f": 12
+    },
+    {
+     "w": "of",
+     "f": 23
+    },
+    {
+     "w": "times",
+     "f": 25
+    }
+   ]
+  },
+  {
+   "i": 106,
+   "chapter": "why",
+   "shot": "emerge",
+   "text": "with huge models...",
+   "k": "HUGE *MODELS*",
+   "p": "bottom",
+   "file": "audio/vo/106.mp3",
+   "startFrame": 10230,
+   "durFrames": 32,
+   "slotFrames": 39,
+   "words": [
+    {
+     "w": "with",
+     "f": 3
+    },
+    {
+     "w": "huge",
+     "f": 6
+    },
+    {
+     "w": "models",
+     "f": 14
+    }
+   ]
+  },
+  {
+   "i": 107,
+   "chapter": "why",
+   "shot": "emerge",
+   "text": "massive datasets...",
+   "k": "MASSIVE *DATASETS*",
+   "p": "bottom",
+   "file": "audio/vo/107.mp3",
+   "startFrame": 10269,
+   "durFrames": 36,
+   "slotFrames": 43,
+   "words": [
+    {
+     "w": "massive",
+     "f": 3
+    },
+    {
+     "w": "datasets",
+     "f": 13
+    }
+   ]
+  },
+  {
+   "i": 108,
+   "chapter": "why",
+   "shot": "emerge",
+   "text": "and enormous computing power...",
+   "k": "ENORMOUS *COMPUTE*",
+   "p": "bottom",
+   "file": "audio/vo/108.mp3",
+   "startFrame": 10312,
+   "durFrames": 47,
+   "slotFrames": 53,
+   "words": [
+    {
+     "w": "and",
+     "f": 3
+    },
+    {
+     "w": "enormous",
+     "f": 5
+    },
+    {
+     "w": "computing",
+     "f": 18
+    },
+    {
+     "w": "power",
+     "f": 31
+    }
+   ]
+  },
+  {
+   "i": 109,
+   "chapter": "why",
+   "shot": "emerge",
+   "text": "and surprisingly capable behavior can emerge.",
+   "k": "CAPABILITY *EMERGES*",
+   "p": "center",
+   "file": "audio/vo/109.mp3",
+   "startFrame": 10365,
+   "durFrames": 76,
+   "slotFrames": 103,
+   "words": [
+    {
+     "w": "and",
+     "f": 3
+    },
+    {
+     "w": "surprisingly",
+     "f": 5
+    },
+    {
+     "w": "capable",
+     "f": 25
+    },
+    {
+     "w": "behavior",
+     "f": 38
+    },
+    {
+     "w": "can",
+     "f": 52
+    },
+    {
+     "w": "emerge",
+     "f": 57
+    }
+   ]
+  },
+  {
+   "i": 110,
+   "chapter": "end",
+   "shot": "recap",
+   "text": "And that's how we went from machines that could only follow instructions...",
+   "k": "FROM *INSTRUCTIONS*...",
+   "p": "bottom",
+   "file": "audio/vo/110.mp3",
+   "startFrame": 10468,
+   "durFrames": 96,
+   "slotFrames": 103,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "that's",
+     "f": 5
+    },
+    {
+     "w": "how",
+     "f": 11
+    },
+    {
+     "w": "we",
+     "f": 16
+    },
+    {
+     "w": "went",
+     "f": 20
+    },
+    {
+     "w": "from",
+     "f": 26
+    },
+    {
+     "w": "machines",
+     "f": 31
+    },
+    {
+     "w": "that",
+     "f": 45
+    },
+    {
+     "w": "could",
+     "f": 49
+    },
+    {
+     "w": "only",
+     "f": 54
+    },
+    {
+     "w": "follow",
+     "f": 61
+    },
+    {
+     "w": "instructions",
+     "f": 71
+    }
+   ]
+  },
+  {
+   "i": 111,
+   "chapter": "end",
+   "shot": "recap",
+   "text": "to machines that can generate language, images, code, music, and increasingly complex reasoning.",
+   "k": "...TO *REASONING*",
+   "p": "bottom",
+   "file": "audio/vo/111.mp3",
+   "startFrame": 10571,
+   "durFrames": 171,
+   "slotFrames": 185,
+   "words": [
+    {
+     "w": "to",
+     "f": 3
+    },
+    {
+     "w": "machines",
+     "f": 5
+    },
+    {
+     "w": "that",
+     "f": 17
+    },
+    {
+     "w": "can",
+     "f": 20
+    },
+    {
+     "w": "generate",
+     "f": 24
+    },
+    {
+     "w": "language",
+     "f": 38
+    },
+    {
+     "w": "images",
+     "f": 60
+    },
+    {
+     "w": "code",
+     "f": 80
+    },
+    {
+     "w": "music",
+     "f": 101
+    },
+    {
+     "w": "and",
+     "f": 120
+    },
+    {
+     "w": "increasingly",
+     "f": 122
+    },
+    {
+     "w": "complex",
+     "f": 142
+    },
+    {
+     "w": "reasoning",
+     "f": 156
+    }
+   ]
+  },
+  {
+   "i": 112,
+   "chapter": "end",
+   "shot": "beginning",
+   "text": "But we're still at the beginning.",
+   "k": "STILL AT THE *BEGINNING*",
+   "p": "bottom",
+   "file": "audio/vo/112.mp3",
+   "startFrame": 10756,
+   "durFrames": 38,
+   "slotFrames": 49,
+   "words": [
+    {
+     "w": "But",
+     "f": 3
+    },
+    {
+     "w": "we're",
+     "f": 6
+    },
+    {
+     "w": "still",
+     "f": 9
+    },
+    {
+     "w": "at",
+     "f": 16
+    },
+    {
+     "w": "the",
+     "f": 19
+    },
+    {
+     "w": "beginning",
+     "f": 21
+    }
+   ]
+  },
+  {
+   "i": 113,
+   "chapter": "end",
+   "shot": "beginning",
+   "text": "The next question isn't just:",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/113.mp3",
+   "startFrame": 10805,
+   "durFrames": 49,
+   "slotFrames": 56,
+   "words": [
+    {
+     "w": "The",
+     "f": 3
+    },
+    {
+     "w": "next",
+     "f": 5
+    },
+    {
+     "w": "question",
+     "f": 11
+    },
+    {
+     "w": "isn't",
+     "f": 25
+    },
+    {
+     "w": "just",
+     "f": 32
+    }
+   ]
+  },
+  {
+   "i": 114,
+   "chapter": "end",
+   "shot": "beginning",
+   "text": "Can machines become intelligent?",
+   "k": "CAN MACHINES BECOME *INTELLIGENT*?",
+   "p": "center",
+   "file": "audio/vo/114.mp3",
+   "startFrame": 10861,
+   "durFrames": 50,
+   "slotFrames": 63,
+   "words": [
+    {
+     "w": "Can",
+     "f": 3
+    },
+    {
+     "w": "machines",
+     "f": 6
+    },
+    {
+     "w": "become",
+     "f": 20
+    },
+    {
+     "w": "intelligent",
+     "f": 29
+    }
+   ]
+  },
+  {
+   "i": 115,
+   "chapter": "end",
+   "shot": "beginning",
+   "text": "It's:",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/115.mp3",
+   "startFrame": 10924,
+   "durFrames": 15,
+   "slotFrames": 22,
+   "words": [
+    {
+     "w": "It's",
+     "f": 3
+    }
+   ]
+  },
+  {
+   "i": 116,
+   "chapter": "end",
+   "shot": "beginning",
+   "text": "How intelligent can they become?",
+   "k": "HOW INTELLIGENT|CAN THEY *BECOME*?",
+   "p": "center",
+   "file": "audio/vo/116.mp3",
+   "startFrame": 10946,
+   "durFrames": 46,
+   "slotFrames": 64,
+   "words": [
+    {
+     "w": "How",
+     "f": 3
+    },
+    {
+     "w": "intelligent",
+     "f": 7
+    },
+    {
+     "w": "can",
+     "f": 22
+    },
+    {
+     "w": "they",
+     "f": 26
+    },
+    {
+     "w": "become",
+     "f": 29
+    }
+   ]
+  },
+  {
+   "i": 117,
+   "chapter": "end",
+   "shot": "finale",
+   "text": "And that...",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/117.mp3",
+   "startFrame": 11010,
+   "durFrames": 18,
+   "slotFrames": 28,
+   "words": [
+    {
+     "w": "And",
+     "f": 3
+    },
+    {
+     "w": "that",
+     "f": 5
+    }
+   ]
+  },
+  {
+   "i": 118,
+   "chapter": "end",
+   "shot": "finale",
+   "text": "is a story we're still writing.",
+   "k": "",
+   "p": "bottom",
+   "file": "audio/vo/118.mp3",
+   "startFrame": 11038,
+   "durFrames": 43,
+   "slotFrames": 133,
+   "words": [
+    {
+     "w": "is",
+     "f": 3
+    },
+    {
+     "w": "a",
+     "f": 5
+    },
+    {
+     "w": "story",
+     "f": 7
+    },
+    {
+     "w": "we're",
+     "f": 17
+    },
+    {
+     "w": "still",
+     "f": 21
+    },
+    {
+     "w": "writing",
+     "f": 29
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Remotion outputs & caches
+out/
+.remotion/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db

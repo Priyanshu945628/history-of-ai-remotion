@@ -1,0 +1,58 @@
+name: Render Video
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      frames:
+        description: 'Specific frame range to render (leave empty to render full video, or e.g. 0-600)'
+        required: false
+        default: ''
+
+concurrency:
+  group: render-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  render:
+    name: Render History of AI
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install system dependencies (FFmpeg & OpenGL libraries)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libgl1-mesa-glx libegl1-mesa
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Render Remotion Video
+        run: |
+          mkdir -p out
+          if [ -n "${{ inputs.frames }}" ]; then
+            echo "Rendering frame range: ${{ inputs.frames }}"
+            npx remotion render HistoryOfAI out/history-of-ai.mp4 --frames="${{ inputs.frames }}" --gl=swangle
+          else
+            echo "Rendering full video..."
+            npx remotion render HistoryOfAI out/history-of-ai.mp4 --gl=swangle
+          fi
+
+      - name: Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: history-of-ai-final-video
+          path: out/history-of-ai.mp4
+          if-no-files-found: error
+          retention-days: 30

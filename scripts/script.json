@@ -1,0 +1,197 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "+10%",
+  "defaultPause": 0.3,
+  "pauseScale": 0.75,
+  "chapters": [
+    {
+      "id": "hook",
+      "label": "PROLOGUE",
+      "title": "How Did We Get Here",
+      "lines": [
+        { "t": "Imagine going back eighty years.", "s": "mainframe", "k": "*80* YEARS AGO", "pause": 0.5 },
+        { "t": "Computers were massive machines that could barely perform basic calculations.", "s": "mainframe", "k": "MASSIVE MACHINES|*BASIC* CALCULATIONS" },
+        { "t": "And today?", "s": "yearwarp", "pause": 0.6 },
+        { "t": "You can talk to an AI, ask it to write code, create images, analyze videos, translate languages, and even solve complex problems.", "s": "aicore" },
+        { "t": "So... how did we get here?", "s": "aicore", "k": "HOW DID WE *GET HERE*?", "p": "center", "pause": 0.6 },
+        { "t": "How did machines go from simply following instructions...", "s": "lattice", "k": "FOLLOWING *INSTRUCTIONS*" },
+        { "t": "to something that looks like intelligence?", "s": "lattice", "k": "LOOKS LIKE *INTELLIGENCE*", "pause": 0.6 },
+        { "t": "This is the story of Artificial Intelligence.", "s": "title", "pause": 1.4 }
+      ]
+    },
+    {
+      "id": "idea",
+      "label": "CHAPTER 01",
+      "title": "The Idea Before AI",
+      "lines": [
+        { "t": "The idea of artificial intelligence actually started long before ChatGPT, smartphones, or even modern computers.", "s": "rewind", "k": "LONG *BEFORE*" },
+        { "t": "In the 1940s and 1950s, scientists began asking a strange question:", "s": "question", "k": "1940s *—* 1950s", "pause": 0.5 },
+        { "t": "Can a machine think?", "s": "question", "pause": 0.8 },
+        { "t": "One of the most important people in this story was Alan Turing.", "s": "turing", "k": "ALAN *TURING*" },
+        { "t": "In 1950, Turing published a famous paper called Computing Machinery and Intelligence.", "s": "turing", "k": "*1950*" },
+        { "t": "Instead of trying to define exactly what thinking means, he proposed a test.", "s": "turingtest", "k": "HE PROPOSED *A TEST*" },
+        { "t": "If a human could communicate with a machine and couldn't reliably tell whether they were talking to a human or a machine...", "s": "turingtest", "k": "HUMAN *OR* MACHINE?" },
+        { "t": "maybe we could call that machine intelligent.", "s": "turingtest", "k": "CALL IT *INTELLIGENT*" },
+        { "t": "This became known as the Turing Test.", "s": "turingtest", "pause": 0.5 },
+        { "t": "And this question became the foundation for a completely new field.", "s": "foundation", "k": "THE *FOUNDATION*|OF A NEW FIELD", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "birth",
+      "label": "CHAPTER 02",
+      "title": "The Birth of AI",
+      "lines": [
+        { "t": "Then came 1956.", "s": "dartmouth", "pause": 0.5 },
+        { "t": "A group of researchers met at Dartmouth College in the United States.", "s": "dartmouth", "k": "DARTMOUTH *COLLEGE*" },
+        { "t": "And they officially introduced the term:", "s": "aiterm", "pause": 0.4 },
+        { "t": "Artificial Intelligence.", "s": "aiterm", "pause": 0.8 },
+        { "t": "The basic idea was incredibly ambitious:", "s": "simulate", "k": "INCREDIBLY *AMBITIOUS*" },
+        { "t": "What if intelligence could be described so precisely that a machine could simulate it?", "s": "simulate", "k": "DESCRIBE IT.|*SIMULATE* IT." },
+        { "t": "Early AI researchers believed that with enough rules and computing power, machines could eventually solve many problems that humans solve using intelligence.", "s": "simulate", "k": "RULES *+* COMPUTING POWER" },
+        { "t": "And initially, they weren't completely wrong.", "s": "symbolic", "k": "NOT *COMPLETELY* WRONG" },
+        { "t": "Early programs could solve mathematical problems, play games, prove logical statements, and manipulate symbols.", "s": "symbolic", "k": "MATH  *·*  GAMES  *·*  LOGIC  *·*  SYMBOLS" },
+        { "t": "But there was one huge problem.", "s": "rules", "k": "ONE *HUGE* PROBLEM", "pause": 0.5 },
+        { "t": "These systems didn't really learn.", "s": "rules", "k": "THEY DIDN'T *LEARN*", "p": "center", "pause": 0.5 },
+        { "t": "They were mostly following rules written by humans.", "s": "rules", "k": "RULES *WRITTEN BY HUMANS*", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "ml",
+      "label": "CHAPTER 03",
+      "title": "From Rules to Machine Learning",
+      "lines": [
+        { "t": "Think about teaching a computer to recognize a cat.", "s": "catrules", "k": "RECOGNIZE A *CAT*" },
+        { "t": "The old approach would be something like:", "s": "catrules", "k": "THE *OLD* APPROACH" },
+        { "t": "If it has two ears, four legs, whiskers, and a tail...", "s": "catrules" },
+        { "t": "then it's probably a cat.", "s": "catrules", "pause": 0.5 },
+        { "t": "But real life doesn't work like that.", "s": "catsvary", "k": "REAL LIFE *DOESN'T* WORK LIKE THAT" },
+        { "t": "Cats can look completely different.", "s": "catsvary", "k": "COMPLETELY *DIFFERENT*", "pause": 0.5 },
+        { "t": "So instead of giving the machine every rule...", "s": "learnrules", "k": "INSTEAD OF *EVERY RULE*" },
+        { "t": "scientists started asking:", "s": "learnrules", "pause": 0.3 },
+        { "t": "What if the machine learns the rules itself?", "s": "learnrules", "k": "WHAT IF IT *LEARNS*|THE RULES ITSELF?", "p": "center", "pause": 0.6 },
+        { "t": "This idea became known as Machine Learning.", "s": "mltitle", "pause": 0.6 },
+        { "t": "Instead of explicitly programming every decision, you give a system examples.", "s": "examples", "k": "GIVE IT *EXAMPLES*" },
+        { "t": "Thousands...", "s": "examples", "pause": 0.2 },
+        { "t": "millions...", "s": "examples", "pause": 0.2 },
+        { "t": "or eventually billions of examples.", "s": "examples", "pause": 0.5 },
+        { "t": "The machine looks for patterns in the data and builds its own mathematical model.", "s": "patterns", "k": "IT FINDS THE *PATTERNS*" },
+        { "t": "And this changed everything.", "s": "patterns", "k": "THIS CHANGED *EVERYTHING*", "p": "center", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "nn",
+      "label": "CHAPTER 04",
+      "title": "Neural Networks",
+      "lines": [
+        { "t": "One of the most important ideas behind modern AI is the neural network.", "s": "nnintro", "k": "THE *NEURAL NETWORK*" },
+        { "t": "Neural networks are loosely inspired by the way biological brains process information.", "s": "nnintro", "k": "INSPIRED BY THE *BRAIN*" },
+        { "t": "A neural network contains layers of mathematical operations.", "s": "nnlayers", "k": "LAYERS OF *MATH*" },
+        { "t": "You give it an input...", "s": "nnlayers", "k": "*INPUT*" },
+        { "t": "the information passes through these layers...", "s": "nnlayers", "k": "THROUGH THE *LAYERS*" },
+        { "t": "and eventually you get an output.", "s": "nnlayers", "k": "*OUTPUT*", "pause": 0.5 },
+        { "t": "For example, give a neural network thousands of pictures of cats and dogs.", "s": "catsdogs", "k": "CATS *VS* DOGS" },
+        { "t": "At first, its predictions are terrible.", "s": "catsdogs", "k": "PREDICTIONS: *TERRIBLE*", "pause": 0.5 },
+        { "t": "But during training, the system compares its prediction with the correct answer.", "s": "training", "k": "PREDICTION *VS* ANSWER" },
+        { "t": "Then it adjusts millions, or even billions, of internal parameters.", "s": "training", "k": "BILLIONS OF *PARAMETERS*" },
+        { "t": "Again and again.", "s": "training", "pause": 0.5 },
+        { "t": "Prediction.", "s": "training", "pause": 0.25 },
+        { "t": "Error.", "s": "training", "pause": 0.25 },
+        { "t": "Adjustment.", "s": "training", "pause": 0.25 },
+        { "t": "Repeat.", "s": "training", "pause": 0.6 },
+        { "t": "Eventually, the network becomes extremely good at recognizing patterns.", "s": "deep", "k": "EXTREMELY *GOOD*" },
+        { "t": "And this approach eventually led to something called Deep Learning.", "s": "deep", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "dl",
+      "label": "CHAPTER 05",
+      "title": "The Deep Learning Revolution",
+      "lines": [
+        { "t": "The real explosion happened when three things came together:", "s": "three", "k": "THREE THINGS *CAME TOGETHER*", "pause": 0.4 },
+        { "t": "More data.", "s": "three", "pause": 0.3 },
+        { "t": "More powerful hardware.", "s": "three", "pause": 0.3 },
+        { "t": "And better algorithms.", "s": "three", "pause": 0.5 },
+        { "t": "Especially GPUs.", "s": "gpu", "k": "ESPECIALLY *GPUs*", "pause": 0.4 },
+        { "t": "Originally designed mainly for graphics, GPUs turned out to be extremely useful for performing the huge number of mathematical calculations needed to train neural networks.", "s": "gpu", "k": "BUILT FOR GRAPHICS.|PERFECT FOR *MATH*." },
+        { "t": "Then, in 2012, a neural network called AlexNet achieved a major breakthrough in image recognition.", "s": "alexnet", "k": "*ALEXNET*  ·  2012" },
+        { "t": "It dramatically outperformed traditional approaches in a major computer vision competition.", "s": "alexnet", "k": "DRAMATICALLY *OUTPERFORMED*" },
+        { "t": "This showed researchers that deep neural networks could scale much further than many people expected.", "s": "scale", "k": "IT COULD *SCALE*" },
+        { "t": "And AI research accelerated rapidly.", "s": "scale", "k": "RESEARCH *ACCELERATED*", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "tf",
+      "label": "CHAPTER 06",
+      "title": "Transformers and Generative AI",
+      "lines": [
+        { "t": "Then came another huge breakthrough.", "s": "paper2017", "k": "ANOTHER *BREAKTHROUGH*", "pause": 0.4 },
+        { "t": "2017.", "s": "paper2017", "pause": 0.5 },
+        { "t": "Researchers at Google published a paper called:", "s": "paper2017", "pause": 0.3 },
+        { "t": "Attention Is All You Need.", "s": "paper2017", "k": "\"ATTENTION IS *ALL YOU NEED*\"", "pause": 0.6 },
+        { "t": "It introduced the Transformer architecture.", "s": "transformer", "k": "THE *TRANSFORMER*" },
+        { "t": "Transformers changed how AI could process sequences of information, especially language.", "s": "transformer", "k": "SEQUENCES  ·  *LANGUAGE*" },
+        { "t": "Instead of simply reading one word at a time, the model could learn relationships between different parts of a sentence.", "s": "attention", "k": "LEARNING *RELATIONSHIPS*" },
+        { "t": "And this architecture became the foundation for many modern AI systems.", "s": "attention", "k": "THE FOUNDATION OF *MODERN AI*" },
+        { "t": "Large language models were trained on enormous amounts of text.", "s": "llm", "k": "*ENORMOUS* AMOUNTS OF TEXT" },
+        { "t": "They learned statistical patterns in language.", "s": "llm", "k": "STATISTICAL *PATTERNS*" },
+        { "t": "They learned how words, concepts, and structures relate to each other.", "s": "llm", "k": "WORDS  ·  CONCEPTS  ·  *STRUCTURES*", "pause": 0.5 },
+        { "t": "And eventually, something surprising happened.", "s": "capabilities", "k": "SOMETHING *SURPRISING*" },
+        { "t": "These models weren't just completing sentences.", "s": "capabilities", "k": "NOT JUST *COMPLETING SENTENCES*" },
+        { "t": "They could write essays.", "s": "capabilities", "pause": 0.2 },
+        { "t": "Generate code.", "s": "capabilities", "pause": 0.2 },
+        { "t": "Translate languages.", "s": "capabilities", "pause": 0.2 },
+        { "t": "Summarize information.", "s": "capabilities", "pause": 0.2 },
+        { "t": "Answer questions.", "s": "capabilities", "pause": 0.2 },
+        { "t": "And interact conversationally.", "s": "capabilities", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "chat",
+      "label": "CHAPTER 07",
+      "title": "ChatGPT and the AI Boom",
+      "lines": [
+        { "t": "Then, in November 2022, ChatGPT was released publicly.", "s": "release", "k": "CHATGPT *RELEASED*" },
+        { "t": "And suddenly, AI wasn't something only researchers or large companies were experimenting with.", "s": "release", "k": "NOT JUST FOR *LABS*" },
+        { "t": "Millions of ordinary people could simply open a website...", "s": "chatui", "k": "*MILLIONS* OF PEOPLE" },
+        { "t": "type a question...", "s": "chatui" },
+        { "t": "and have a conversation with an AI.", "s": "chatui", "pause": 0.5 },
+        { "t": "This triggered an enormous wave of interest in generative AI.", "s": "boom", "k": "AN *ENORMOUS* WAVE" },
+        { "t": "Companies began building AI systems for coding, images, audio, video, research, education, business, and much more.", "s": "boom" },
+        { "t": "AI had officially entered everyday life.", "s": "boom", "k": "AI ENTERED *EVERYDAY LIFE*", "p": "center", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "why",
+      "label": "CHAPTER 08",
+      "title": "How AI Became Intelligent",
+      "lines": [
+        { "t": "But here's the most important part.", "s": "notprog", "k": "THE MOST *IMPORTANT* PART", "pause": 0.4 },
+        { "t": "AI didn't suddenly become intelligent because someone programmed intelligence into it.", "s": "notprog" },
+        { "t": "Modern AI became powerful because researchers discovered ways to let machines learn patterns from enormous amounts of data, using increasingly powerful mathematical models and hardware.", "s": "notprog", "k": "IT *LEARNED* FROM DATA" },
+        { "t": "The basic loop is surprisingly simple:", "s": "loop", "k": "SURPRISINGLY *SIMPLE*", "pause": 0.4 },
+        { "t": "Data. Training. Prediction. Error. Adjustment. Repeat.", "s": "loop", "pause": 0.6 },
+        { "t": "Do that billions of times...", "s": "emerge", "k": "*BILLIONS* OF TIMES" },
+        { "t": "with huge models...", "s": "emerge", "k": "HUGE *MODELS*" },
+        { "t": "massive datasets...", "s": "emerge", "k": "MASSIVE *DATASETS*" },
+        { "t": "and enormous computing power...", "s": "emerge", "k": "ENORMOUS *COMPUTE*" },
+        { "t": "and surprisingly capable behavior can emerge.", "s": "emerge", "k": "CAPABILITY *EMERGES*", "p": "center", "pause": 1.2 }
+      ]
+    },
+    {
+      "id": "end",
+      "label": "EPILOGUE",
+      "title": "A Story Still Being Written",
+      "lines": [
+        { "t": "And that's how we went from machines that could only follow instructions...", "s": "recap", "k": "FROM *INSTRUCTIONS*..." },
+        { "t": "to machines that can generate language, images, code, music, and increasingly complex reasoning.", "s": "recap", "k": "...TO *REASONING*", "pause": 0.6 },
+        { "t": "But we're still at the beginning.", "s": "beginning", "k": "STILL AT THE *BEGINNING*", "pause": 0.5 },
+        { "t": "The next question isn't just:", "s": "beginning", "pause": 0.3 },
+        { "t": "Can machines become intelligent?", "s": "beginning", "k": "CAN MACHINES BECOME *INTELLIGENT*?", "p": "center", "pause": 0.6 },
+        { "t": "It's:", "s": "beginning", "pause": 0.3 },
+        { "t": "How intelligent can they become?", "s": "beginning", "k": "HOW INTELLIGENT|CAN THEY *BECOME*?", "p": "center", "pause": 0.8 },
+        { "t": "And that...", "s": "finale", "pause": 0.4 },
+        { "t": "is a story we're still writing.", "s": "finale", "pause": 4.0 }
+      ]
+    }
+  ]
+}
