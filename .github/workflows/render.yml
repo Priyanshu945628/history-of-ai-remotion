@@ -27,13 +27,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
-      - name: Install system dependencies (FFmpeg & OpenGL libraries)
+      - name: Install system dependencies (OpenGL libraries)
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg libgl1-mesa-glx libegl1-mesa
+          sudo apt-get install -y ffmpeg libgl1 libegl1
 
       - name: Install npm dependencies
         run: npm ci
